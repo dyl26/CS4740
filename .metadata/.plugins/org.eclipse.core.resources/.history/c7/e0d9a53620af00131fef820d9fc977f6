@@ -1,0 +1,111 @@
+import main
+import supervisedModel
+from nltk.corpus import stopwords
+import math
+from random import *
+
+window_size = 20
+
+def predict_sense_ids_with_data (training_data, test_data_file):
+    sense_ids_list = [] #OUTPUT: [ ('word', 'predictedSense', 'actualSense', 'prevContext', 'nextContext', 'senseScores'),...]
+    counter = 1
+    numCorrect = 0
+    global window_size
+    global target_token
+    numIncorrect = 0
+    output = open("predictedSenses.txt", "w")  # output of results
+    output.write("Id,Prediction\n")
+    word_senses_file = open("probabilities.txt", "w")
+    probability_map = supervisedModel.create_probability_map(training_data)  # { word, { senseID, ( P(s), { f, P(f|s) } ) } }
+    print "Training complete."
+    test_data_list = main.format_data_to_list(test_data_file)
+    for i in range(len(test_data_list)):  # for each instance/item in the list of entries
+        instance = test_data_list[i]
+        # get the list of possible senses for the word from the training data       
+        sense_prob_map = get_senses(probability_map, instance, window_size)
+        # get the max value from the prob_sense_value
+        #predicted_sense = max(sense_prob_map, key=sense_prob_map.get)
+        predicted_sense = extension_2(probability_map,instance,sense_prob_map)                
+        correct = False
+        if (predicted_sense == instance[main.senseID]):
+            numCorrect += 1
+            correct = True
+        else:
+            numIncorrect += 1
+        # write to a file the word and its sense probability map
+        word_senses_file.write(instance[main.word_tag] + " - correct sense: " + str(instance[main.senseID]) + " - predicted sense: " + str(predicted_sense) + "\n")
+        word_senses_file.write(str(correct) + "\n")
+        for s in sense_prob_map.keys():
+            word_senses_file.write("\t" + str(s) + " : " + str(sense_prob_map[s]) + "\n")
+        word_senses_file.write("\n")
+        # enter the predicted sense into the sense_ids_map
+        sense_ids_list.append((instance[main.word_tag], predicted_sense, instance[main.senseID], instance[main.prev], instance[main.next], sense_prob_map))
+        
+        output.write(str(counter)+","+predicted_sense + "\n")
+        counter+=1
+    output.close()   
+    word_senses_file.close() 
+    print("Number correct: " + str(numCorrect) + ". Number incorrect: " + str(numIncorrect));   
+    return sense_ids_list
+
+
+#Get predicted senseIDs:
+def predict_sense_ids(training_data_file, test_data_file):
+    return predict_sense_ids_with_data(main.format_data(training_data_file), test_data_file)
+
+def get_senses(probability_map, instance, window_size):
+    sense_prob_map = {} # { s, P(s) } Probability map for each possible sense the instance can be
+    map_of_senses = probability_map[instance[main.word_tag]]
+    for sense in map_of_senses.keys():
+        sense_prob_map[sense] = (map_of_senses[sense])[0];  # set initial probability to P(s)
+        # map of feature words and probabilities for the sense
+        feature_map = (map_of_senses[sense])[1]
+        sentence = instance[main.prev] + " " + main.target_token + " " + instance[main.next]
+        list_of_features = main.tokenize(sentence)  # feature words for the wordInstance
+        list_of_features = supervisedModel.words_in_window(list_of_features, window_size)
+        # remove all the stop words
+        for item in list_of_features:
+            if item in stopwords.words('english'):
+                list_of_features.remove(item)
+        # stem all the feature words
+        for j in range(len(list_of_features)):
+            list_of_features[j] = main.stem(list_of_features[j])
+        # remove duplicates in the sentence
+        list_of_features = list(set(list_of_features))
+        # get all the p(f_j|s) from word instance and add it to the sense_prob_map
+        for f in list_of_features:
+            # if feature word exists in map, update the probability
+            if f in feature_map.keys():
+                sense_prob_map[sense] *= feature_map[f]
+            else:
+                sense_prob_map[sense] *= 0.5
+    return sense_prob_map
+    
+
+#Returns key with the second highest value:
+def get_second_highest(dictionary):
+    temp = dictionary.copy()
+    highest_value = max(temp, key=temp.get)
+    del temp[highest_value]
+    second_highest = max(temp, key=temp.get)
+    return second_highest
+
+def extension_2(probability_map, instance, sense_prob_map):   
+    highest = max(sense_prob_map, key=sense_prob_map.get)
+    if (len(sense_prob_map)==1):
+        return highest
+    else:
+        second_highest = get_second_highest(sense_prob_map)
+        #if second highest score is close to the highest, change the window size to 10.
+        if (sense_prob_map[highest]-sense_prob_map[second_highest] < math.pow(10,25)):
+            new_sense_prob_map = get_senses(probability_map, instance, 30)          
+            return max(new_sense_prob_map, key=new_sense_prob_map.get)
+        else:
+            return highest
+    
+
+senses = predict_sense_ids("../training_data.data","../validation_data.data")
+
+
+ 
+    

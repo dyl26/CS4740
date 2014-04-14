@@ -1,0 +1,6548 @@
+capital - correct sense: 1 - predicted sense: 1
+True
+	1 : 6.32737536919e+34
+	3 : 3.65615844006e-05
+	2 : 27969612.0665
+	5 : 2.19369506404e-05
+
+capital - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.70293928314e+38
+	3 : 0.000101559956668
+	2 : 1127329450.43
+	5 : 0.000169266594447
+
+capital - correct sense: 1 - predicted sense: 1
+True
+	1 : 2.98570682844e+28
+	3 : 3.65615844006e-05
+	2 : 237796.055949
+	5 : 6.0935974001e-05
+
+capital - correct sense: 1 - predicted sense: 1
+True
+	1 : 390319768735467045310049550336000
+	3 : 0.000169266594447
+	2 : 10231225.2644
+	5 : 3.65615844006e-05
+
+capital - correct sense: 1 - predicted sense: 1
+True
+	1 : 2.92956105629e+28
+	3 : 1.7058172818e-06
+	2 : 3.58011034451
+	5 : 4.73838133832e-06
+
+capital - correct sense: 1 - predicted sense: 1
+True
+	1 : 7.53735201647e+31
+	3 : 0.000169266594447
+	2 : 626913.312768
+	5 : 0.000101559956668
+
+capital - correct sense: 1 - predicted sense: 1
+True
+	1 : 6.41164924259e+35
+	3 : 2.19369506404e-05
+	2 : 11841.6959078
+	5 : 7.89730223054e-06
+
+capital - correct sense: 1 - predicted sense: 1
+True
+	1 : 2.45909509231e+30
+	3 : 6.0935974001e-05
+	2 : 24157.059652
+	5 : 3.65615844006e-05
+
+capital - correct sense: 1 - predicted sense: 1
+True
+	1 : 4.57939924095e+24
+	3 : 4.73838133832e-06
+	2 : 1.53558654483
+	5 : 1.31621703842e-05
+
+capital - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.4716125224e+26
+	3 : 1.31621703842e-05
+	2 : 1066.37954502
+	5 : 7.89730223054e-06
+
+capital - correct sense: 1 - predicted sense: 1
+True
+	1 : 280703690142376453710468508385280000000
+	3 : 0.000101559956668
+	2 : 40948.9745287
+	5 : 2.19369506404e-05
+
+exchange - correct sense: 3 - predicted sense: 3
+True
+	1 : 451565659.187
+	3 : 1.40856946725e+35
+	2 : 4.26454320449e-05
+	5 : 423918.782094
+	4 : 2.84302880299e-06
+
+exchange - correct sense: 3 - predicted sense: 3
+True
+	1 : 1.62174742321e+14
+	3 : 2.69890794e+35
+	2 : 0.141055495373
+	5 : 1.55407826828e+17
+	4 : 7.89730223054e-06
+
+exchange - correct sense: 5 - predicted sense: 3
+False
+	1 : 1519970008.82
+	3 : 1.15410433694e+26
+	2 : 0.0182807922003
+	5 : 6.18940262692e+17
+	4 : 4.73838133832e-06
+
+exchange - correct sense: 3 - predicted sense: 3
+True
+	1 : 79641209.7331
+	3 : 7.38072725259e+27
+	2 : 7.89730223054e-05
+	5 : 7143816.51306
+	4 : 7.89730223054e-06
+
+exchange - correct sense: 3 - predicted sense: 3
+True
+	1 : 1138582.01318
+	3 : 2.73931236429e+21
+	2 : 0.0152339935003
+	5 : 536963.790652
+	4 : 6.0935974001e-05
+
+exchange - correct sense: 3 - predicted sense: 3
+True
+	1 : 1.59226110642e+12
+	3 : 2.96426374835e+32
+	2 : 0.152339935003
+	5 : 3.50020841314e+14
+	4 : 6.0935974001e-05
+
+exchange - correct sense: 3 - predicted sense: 3
+True
+	1 : 4.99306165515e+13
+	3 : 2.56243526704e+36
+	2 : 0.00822635649014
+	5 : 4.97685883743e+15
+	4 : 1.31621703842e-05
+
+exchange - correct sense: 3 - predicted sense: 3
+True
+	1 : 163886804.928
+	3 : 2.52067299871e+21
+	2 : 0.00304679870005
+	5 : 1885173802.06
+	4 : 0.000169266594447
+
+exchange - correct sense: 3 - predicted sense: 3
+True
+	1 : 9701605959.09
+	3 : 1.05860513118e+31
+	2 : 0.00164527129803
+	5 : 1.2941552785e+13
+	4 : 2.19369506404e-05
+
+exchange - correct sense: 1 - predicted sense: 3
+False
+	1 : 1.62600803205e+15
+	3 : 3.70953468912e+34
+	2 : 0.000987162778817
+	5 : 4.3522328295e+12
+	4 : 4.73838133832e-06
+
+exchange - correct sense: 1 - predicted sense: 3
+False
+	1 : 2.27886254231e+18
+	3 : 7.29480884864e+28
+	2 : 0.00274211883005
+	5 : 1.40372941569e+12
+	4 : 3.65615844006e-05
+
+exchange - correct sense: 5 - predicted sense: 3
+False
+	1 : 3.43189900982e+15
+	3 : 8.96310063434e+32
+	2 : 0.00319840740337
+	5 : 1.00229611235e+18
+	4 : 2.84302880299e-06
+
+remove - correct sense: 1 - predicted sense: 1
+True
+	1 : 70251128127.1
+
+remove - correct sense: 1 - predicted sense: 1
+True
+	1 : 371747461.505
+
+remove - correct sense: 1 - predicted sense: 1
+True
+	1 : 7.16442209748e+12
+
+feel - correct sense: 1 - predicted sense: 1
+True
+	1 : 2.97438602778e+21
+	3 : 1054267579.82
+	2 : 0.0627031172471
+
+feel - correct sense: 3 - predicted sense: 1
+False
+	1 : 3.80115839155e+22
+	3 : 7.22476744704e+12
+	2 : 0.059717254521
+
+feel - correct sense: 1 - predicted sense: 1
+True
+	1 : 2.16472300294e+22
+	3 : 3388717220.84
+	2 : 0.829406312792
+
+feel - correct sense: 1 - predicted sense: 1
+True
+	1 : 4.49671366524e+13
+	3 : 7993822.55647
+	2 : 0.107491058138
+
+feel - correct sense: 3 - predicted sense: 1
+False
+	1 : 1.06632113469e+18
+	3 : 32273497.3413
+	2 : 0.00895758817815
+
+feel - correct sense: 3 - predicted sense: 1
+False
+	1 : 2.91170044761e+29
+	3 : 3.2437438075e+16
+	2 : 4.87690911922
+
+feel - correct sense: 3 - predicted sense: 1
+False
+	1 : 8.4749404921e+25
+	3 : 4.87182977984e+13
+	2 : 5.64457073983
+
+feel - correct sense: 1 - predicted sense: 1
+True
+	1 : 2.20797176091e+15
+	3 : 1277045.63712
+	2 : 0.00710919696679
+
+feel - correct sense: 1 - predicted sense: 1
+True
+	1 : 2.95331387663e+20
+	3 : 95874201206.8
+	2 : 0.000426551818007
+
+feel - correct sense: 3 - predicted sense: 1
+False
+	1 : 6.49441872262e+27
+	3 : 5.44153481626e+16
+	2 : 0.691171927327
+
+area - correct sense: 1 - predicted sense: 1
+True
+	1 : 2.87006022025e+16
+	3 : 0.541653102232
+	2 : 10879247445.0
+
+area - correct sense: 1 - predicted sense: 1
+True
+	1 : 3.97956074615e+20
+	3 : 0.338533188895
+	2 : 1.96624575439e+12
+
+area - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.59932049564e+25
+	3 : 40.6239826674
+	2 : 1.72167974729e+13
+
+area - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.86172751204e+24
+	3 : 300.918390129
+	2 : 3.86291614877e+14
+
+area - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.72231899577e+16
+	3 : 3.13456656384
+	2 : 421152107.869
+
+area - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.54870183166e+29
+	3 : 0.169266594447
+	2 : 1.36378030649e+15
+
+area - correct sense: 1 - predicted sense: 1
+True
+	1 : 9.63413923973e+20
+	3 : 3.00918390129
+	2 : 1.42138333482e+12
+
+end - correct sense: 1 - predicted sense: 1
+True
+	1 : 2.51542432879e+17
+	3 : 0.00177689300187
+	2 : 6857.12515434
+	4 : 61.6746534192
+
+end - correct sense: 4 - predicted sense: 1
+False
+	1 : 7.39460931732e+16
+	3 : 0.000236919066916
+	2 : 24457978042.1
+	4 : 1140433.68009
+
+end - correct sense: 2 - predicted sense: 1
+False
+	1 : 1.07655403463e+14
+	3 : 0.00182807922003
+	2 : 59913305.5353
+	4 : 57.5055043536
+
+end - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.14590146785e+21
+	3 : 0.000394865111527
+	2 : 207088274.607
+	4 : 105.66636425
+
+turn - correct sense: 1 - predicted sense: 1
+True
+	11 : 0.0473946464453
+	13 : 0.0101559956668
+	12 : 3.65615844006e-05
+	15 : 228.509902504
+	14 : 2.19369506404e-05
+	1 : 189822106.775
+	3 : 0.0286060544616
+	2 : 11730.1749952
+	5 : 10.3591155802
+	4 : 14.6246337603
+	7 : 0.00304679870005
+	6 : 2720.80377741
+	8 : 6.0935974001e-05
+
+turn - correct sense: 1 - predicted sense: 1
+True
+	11 : 87.7678637875
+	13 : 0.0338533188895
+	12 : 0.000101559956668
+	15 : 30163.3071305
+	14 : 0.000169266594447
+	1 : 1.42905798303e+18
+	3 : 950.818524365
+	2 : 583176313.682
+	5 : 239410.671186
+	4 : 43678.906164
+	7 : 0.0677066377789
+	6 : 8475867.98862
+	8 : 0.00078364164096
+
+turn - correct sense: 7 - predicted sense: 1
+False
+	11 : 0.204744872644
+	13 : 0.000987162778817
+	12 : 6.0935974001e-05
+	15 : 131.621703842
+	14 : 1.31621703842e-05
+	1 : 1.71437852211e+14
+	3 : 9.5353514872
+	2 : 111715952.335
+	5 : 139.848060332
+	4 : 68.2482908812
+	7 : 0.00329054259606
+	6 : 5441607.55483
+	8 : 2.19369506404e-05
+
+turn - correct sense: 1 - predicted sense: 1
+True
+	11 : 9.09977211749
+	13 : 0.137105941502
+	12 : 3.65615844006e-05
+	15 : 4738.38133832
+	14 : 6.0935974001e-05
+	1 : 7.73988818404e+19
+	3 : 1566.71122352
+	2 : 10166151662.5
+	5 : 1014364.59761
+	4 : 13820.2789034
+	7 : 0.0246790694704
+	6 : 402989.90806
+	8 : 6.0935974001e-05
+
+turn - correct sense: 1 - predicted sense: 1
+True
+	11 : 26.5410020093
+	13 : 0.00822635649014
+	12 : 2.19369506404e-05
+	15 : 95330.9459928
+	14 : 3.65615844006e-05
+	1 : 4.91269004572e+17
+	3 : 495.838277334
+	2 : 1355486888.33
+	5 : 93555.7625835
+	4 : 4387.39012808
+	7 : 0.00493581389409
+	6 : 497806320.756
+	8 : 6.0935974001e-05
+
+turn - correct sense: 11 - predicted sense: 1
+False
+	11 : 12.6385723854
+	13 : 0.000987162778817
+	12 : 2.19369506404e-05
+	15 : 243743.896004
+	14 : 2.84302880299e-06
+	1 : 3.35350597019e+23
+	3 : 74.1638449005
+	2 : 2.23706469482e+15
+	5 : 2954266.29509
+	4 : 9476.76267664
+	7 : 0.0152339935003
+	6 : 28820365938.5
+	8 : 0.000101559956668
+
+turn - correct sense: 15 - predicted sense: 1
+False
+	11 : 5.11862181609
+	13 : 0.000710757200748
+	12 : 7.89730223054e-06
+	15 : 14624.6337603
+	14 : 7.89730223054e-06
+	1 : 2.57904048721e+14
+	3 : 40.0484762462
+	2 : 324390024.559
+	5 : 13674.0325658
+	4 : 1421.83939336
+	7 : 0.00888446500935
+	6 : 20009568.3516
+	8 : 3.65615844006e-05
+
+turn - correct sense: 15 - predicted sense: 1
+False
+	11 : 17.6940013396
+	13 : 0.126949945836
+	12 : 3.65615844006e-05
+	15 : 126385.723854
+	14 : 6.0935974001e-05
+	1 : 2.37710514104e+17
+	3 : 918.219032101
+	2 : 16943586104.2
+	5 : 3522.09929726
+	4 : 59507.7871104
+	7 : 0.152339935003
+	6 : 253365854.405
+	8 : 0.000282110990746
+
+turn - correct sense: 1 - predicted sense: 1
+True
+	11 : 3.68625027908
+	13 : 0.00274211883005
+	12 : 6.0935974001e-05
+	15 : 6398.27727011
+	14 : 6.0935974001e-05
+	1 : 1.32111885658e+14
+	3 : 198.653155983
+	2 : 26610119.2021
+	5 : 8839.77862842
+	4 : 1492.93136303
+	7 : 0.0914039610016
+	6 : 303175.278055
+	8 : 0.000101559956668
+
+turn - correct sense: 11 - predicted sense: 1
+False
+	11 : 5.92433080566
+	13 : 0.00548423766009
+	12 : 2.19369506404e-05
+	15 : 2031.19913337
+	14 : 2.19369506404e-05
+	1 : 4.86148652108e+11
+	3 : 105.948349858
+	2 : 2758418.57618
+	5 : 12.4309386962
+	4 : 50554.2895416
+	7 : 0.00164527129803
+	6 : 147700.776488
+	8 : 0.000101559956668
+
+turn - correct sense: 3 - predicted sense: 1
+False
+	11 : 36.8625027908
+	13 : 0.0548423766009
+	12 : 0.000101559956668
+	15 : 136496.581762
+	14 : 6.0935974001e-05
+	1 : 2.1139065477e+19
+	3 : 53137.6754688
+	2 : 23532758478.0
+	5 : 132078.723647
+	4 : 26659.4886255
+	7 : 0.0548423766009
+	6 : 5959855.89338
+	8 : 0.000470184984576
+
+turn - correct sense: 8 - predicted sense: 1
+False
+	11 : 2.59993489071
+	13 : 0.00304679870005
+	12 : 1.31621703842e-05
+	15 : 334353.76681
+	14 : 7.89730223054e-06
+	1 : 6.09896475106e+24
+	3 : 226.385362944
+	2 : 3.72720861551e+12
+	5 : 6702957.14012
+	4 : 36561.5844006
+	7 : 0.0253899891671
+	6 : 63719469109.7
+	8 : 2.19369506404e-05
+
+remember - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.00055299705e+12
+	2 : 0.000470184984576
+
+remember - correct sense: 1 - predicted sense: 1
+True
+	1 : 5.72904259434e+17
+	2 : 0.000101559956668
+
+president - correct sense: 1 - predicted sense: 1
+True
+	1 : 5.87443935526e+40
+	3 : 7.54260033544e+15
+	2 : 296.216540283
+
+president - correct sense: 1 - predicted sense: 1
+True
+	1 : 4.79479428281e+31
+	3 : 979422274.327
+	2 : 9.87162778817
+
+president - correct sense: 3 - predicted sense: 1
+False
+	1 : 5.82986183796e+40
+	3 : 1.24611833951e+25
+	2 : 1322395269.12
+
+president - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.15725954617e+40
+	3 : 2.16578992999e+18
+	2 : 518378.945495
+
+president - correct sense: 3 - predicted sense: 1
+False
+	1 : 7.91115252697e+23
+	3 : 4.05108918302e+13
+	2 : 14218.3939336
+
+president - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.89857599489e+46
+	3 : 1.2866644981e+21
+	2 : 296216.540283
+
+president - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.51824486074e+41
+	3 : 5.31898268394e+15
+	2 : 1535.58654483
+
+president - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.80905532475e+39
+	3 : 2.60471455647e+16
+	2 : 4113.17824507
+
+president - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.01604459425e+31
+	3 : 7.57743056924e+14
+	2 : 4952.1798144
+
+president - correct sense: 3 - predicted sense: 1
+False
+	1 : 4.51516139908e+28
+	3 : 1.19296915028e+16
+	2 : 255.931090804
+
+president - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.89803932161e+42
+	3 : 1.4023325152e+13
+	2 : 2.30337981724
+
+president - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.37924016959e+29
+	3 : 15942350.721
+	2 : 7.25594112
+
+president - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.05243393115e+43
+	3 : 1.78557343628e+19
+	2 : 44432.4810424
+
+president - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.01520217776e+40
+	3 : 1.45174598088e+15
+	2 : 355.459848339
+
+president - correct sense: 1 - predicted sense: 1
+True
+	1 : 2.55794538783e+23
+	3 : 6.7096705104e+11
+	2 : 1777.7055744
+
+president - correct sense: 3 - predicted sense: 1
+False
+	1 : 2.31864974459e+22
+	3 : 8.39496809454e+17
+	2 : 105.79162153
+
+president - correct sense: 3 - predicted sense: 1
+False
+	1 : 2.55725613656e+44
+	3 : 1.14570276586e+30
+	2 : 16717688.3405
+
+president - correct sense: 3 - predicted sense: 1
+False
+	1 : 2.31246272824e+33
+	3 : 7.74592759127e+19
+	2 : 383896.636207
+
+president - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.17404290385e+31
+	3 : 2.94918159156e+14
+	2 : 156.728328192
+
+president - correct sense: 1 - predicted sense: 1
+True
+	1 : 2.16282294452e+35
+	3 : 7591694183.77
+	2 : 0.296148833645
+
+president - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.75158526945e+35
+	3 : 1.65686739508e+16
+	2 : 264479.053824
+
+president - correct sense: 1 - predicted sense: 1
+True
+	1 : 9.95913980382e+38
+	3 : 9.21042358669e+17
+	2 : 315964.309635
+
+president - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.51237533968e+36
+	3 : 2.00942293826e+11
+	2 : 19.7477693522
+
+president - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.76689488114e+43
+	3 : 3.99841386361e+18
+	2 : 29249.2675205
+
+president - correct sense: 1 - predicted sense: 1
+True
+	1 : 2.70011056627e+40
+	3 : 9.19276393155e+15
+	2 : 8226.35649014
+
+president - correct sense: 1 - predicted sense: 1
+True
+	1 : 2041599905317753813252716134608255942656000000
+	3 : 1.28296592359e+19
+	2 : 587.73123072
+
+president - correct sense: 1 - predicted sense: 1
+True
+	1 : 179961782415206849995924681755154963389480960000
+	3 : 2.76269545503e+16
+	2 : 23765.0298604
+
+president - correct sense: 1 - predicted sense: 1
+True
+	1 : 2.53851504831e+47
+	3 : 3.04071954773e+20
+	2 : 3455.06972586
+
+president - correct sense: 1 - predicted sense: 1
+True
+	1 : 5.02721537959e+41
+	3 : 1.46155444534e+16
+	2 : 192540.751184
+
+president - correct sense: 1 - predicted sense: 1
+True
+	1 : 2542680014880820826875682638281937759764480000
+	3 : 6.6851633863e+18
+	2 : 7962.3006028
+
+president - correct sense: 3 - predicted sense: 1
+False
+	1 : 6.28426562158e+25
+	3 : 2.1688775525e+18
+	2 : 35.2638738432
+
+president - correct sense: 1 - predicted sense: 1
+True
+	1 : 4.88503366708e+34
+	3 : 1.01786827443e+12
+	2 : 311.916016918
+
+president - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.9796849081e+37
+	3 : 7.96557802198e+16
+	2 : 29112.161579
+
+president - correct sense: 1 - predicted sense: 1
+True
+	1 : 5.38211703908e+22
+	3 : 8088062787.36
+	2 : 1175.46246144
+
+president - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.56798903578e+43
+	3 : 5.8246314274e+16
+	2 : 457.019805008
+
+hope - correct sense: 1 - predicted sense: 1
+True
+	1 : 3.92650912397e+13
+
+hope - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.01774538229e+14
+
+hope - correct sense: 1 - predicted sense: 1
+True
+	1 : 9.42942462037e+13
+
+hope - correct sense: 1 - predicted sense: 1
+True
+	1 : 3.8227172996e+20
+
+hope - correct sense: 1 - predicted sense: 1
+True
+	1 : 4.05059949306e+21
+
+hope - correct sense: 1 - predicted sense: 1
+True
+	1 : 6.49501964887e+18
+
+hold - correct sense: 2 - predicted sense: 5
+False
+	10 : 0.00350991210246
+	1 : 0.00274211883005
+	3 : 150.459195064
+	2 : 45498.8605875
+	5 : 2.60732267228e+13
+	4 : 170659.735142
+	6 : 0.752295975322
+	8 : 1.67757358694e+11
+
+hold - correct sense: 5 - predicted sense: 5
+True
+	10 : 0.0259993489071
+	1 : 0.000197432555763
+	3 : 0.101559956668
+	2 : 4739.46464453
+	5 : 61318055736.1
+	4 : 25.2771447708
+	6 : 0.00761699675013
+	8 : 12078529.826
+
+hold - correct sense: 4 - predicted sense: 8
+False
+	10 : 0.0155996093443
+	1 : 0.00329054259606
+	3 : 0.101559956668
+	2 : 47.3838133832
+	5 : 25296.0462072
+	4 : 39.811503014
+	6 : 0.0152339935003
+	8 : 55440.4519013
+
+hold - correct sense: 5 - predicted sense: 5
+True
+	10 : 0.00902755170386
+	1 : 0.000329054259606
+	3 : 0.00877478025615
+	2 : 21.9369506404
+	5 : 32035025.3944
+	4 : 66.3525050234
+	6 : 0.00846332972237
+	8 : 32293.2915487
+
+complain - correct sense: 1 - predicted sense: 1
+True
+	1 : 306090.424959
+	2 : 3.65615844006e-05
+
+complain - correct sense: 1 - predicted sense: 1
+True
+	1 : 17763039.5412
+	2 : 0.000101559956668
+
+base - correct sense: 1 - predicted sense: 1
+True
+	1 : 4.42814421074e+24
+	3 : 417240478.384
+	2 : 1.7058172818e-06
+	7 : 41786.2799492
+	6 : 0.0128989269765
+
+base - correct sense: 6 - predicted sense: 3
+False
+	1 : 501.435359391
+	3 : 310251.674917
+	2 : 3.65615844006e-05
+	7 : 386.105226731
+	6 : 580.584418954
+
+base - correct sense: 7 - predicted sense: 7
+True
+	1 : 53.3813756883
+	3 : 479065.086269
+	2 : 1.7058172818e-06
+	7 : 15956.389472
+	6 : 0.00928722742311
+
+base - correct sense: 1 - predicted sense: 3
+False
+	1 : 10523951987.2
+	3 : 3.00512487408e+12
+	2 : 1.31621703842e-05
+	7 : 30469162.463
+	6 : 1.70659735142
+
+grant - correct sense: 1 - predicted sense: 1
+True
+	1 : 61298.1905818
+	2 : 294.900022326
+
+bill - correct sense: 3 - predicted sense: 3
+True
+	3 : 4.21605413553e+38
+	5 : 1.19503690755e+14
+	4 : 2.10308519323e+11
+
+bill - correct sense: 3 - predicted sense: 3
+True
+	3 : 9.04920506121e+32
+	5 : 2.41563731547e+12
+	4 : 68565835012.4
+
+bill - correct sense: 3 - predicted sense: 3
+True
+	3 : 1.72698923093e+35
+	5 : 844379530.415
+	4 : 1.36870103099e+11
+
+bill - correct sense: 3 - predicted sense: 3
+True
+	3 : 3.1434269937e+35
+	5 : 1.83192119515e+16
+	4 : 39690578401.7
+
+bill - correct sense: 3 - predicted sense: 3
+True
+	3 : 9.62419720373e+37
+	5 : 1.26271923995e+16
+	4 : 3.78163010883e+13
+
+bill - correct sense: 5 - predicted sense: 5
+True
+	3 : 3.58434053224e+24
+	5 : 5.76452676046e+30
+	4 : 1731952512.07
+
+bill - correct sense: 3 - predicted sense: 3
+True
+	3 : 78752941888215678226855057214668800
+	5 : 9.53296419306e+12
+	4 : 1.03172411144e+12
+
+bill - correct sense: 3 - predicted sense: 3
+True
+	3 : 3.49378198414e+27
+	5 : 28618146699.9
+	4 : 2616574474.01
+
+bill - correct sense: 3 - predicted sense: 3
+True
+	3 : 1.66373468628e+38
+	5 : 1.11391721797e+14
+	4 : 44809075392.4
+
+bill - correct sense: 3 - predicted sense: 3
+True
+	3 : 2.67568876552e+29
+	5 : 18770860668.4
+	4 : 121929456.85
+
+bill - correct sense: 3 - predicted sense: 3
+True
+	3 : 4.24579051484e+39
+	5 : 5228729.05871
+	4 : 13966465057.4
+
+bill - correct sense: 3 - predicted sense: 3
+True
+	3 : 2070221729815217632762717735904870400
+	5 : 4.76373326821e+15
+	4 : 6.24134345367e+11
+
+bill - correct sense: 5 - predicted sense: 5
+True
+	3 : 1.1744557972e+18
+	5 : 1.10685612126e+19
+	4 : 2526.02181114
+
+bill - correct sense: 5 - predicted sense: 5
+True
+	3 : 8.5091590375e+25
+	5 : 1540462280029014485182921762010038272000000
+	4 : 179117.910244
+
+bill - correct sense: 3 - predicted sense: 3
+True
+	3 : 7.38705659356e+31
+	5 : 13923633872.5
+	4 : 1300976220.09
+
+bill - correct sense: 5 - predicted sense: 5
+True
+	3 : 1.19999697665e+26
+	5 : 3385519583092571422544160315801600000000
+	4 : 80832697.9564
+
+bill - correct sense: 3 - predicted sense: 3
+True
+	3 : 1.05923644942e+35
+	5 : 6.59324223008e+19
+	4 : 3.43641027802e+11
+
+bill - correct sense: 3 - predicted sense: 3
+True
+	3 : 1.76638844738e+26
+	5 : 18460440.4792
+	4 : 864096.967287
+
+bill - correct sense: 3 - predicted sense: 3
+True
+	3 : 3.51050397047e+16
+	5 : 11772.0388731
+	4 : 63637.291008
+
+bill - correct sense: 3 - predicted sense: 3
+True
+	3 : 2.47396783072e+33
+	5 : 1.39069546662e+11
+	4 : 1127315.51902
+
+effect - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.65038750097e+17
+	3 : 4874.87792008
+	2 : 0.000105297363074
+
+effect - correct sense: 1 - predicted sense: 1
+True
+	1 : 2.24915785797e+23
+	3 : 1206808127.08
+	2 : 0.00541653102232
+
+effect - correct sense: 3 - predicted sense: 1
+False
+	1 : 1.52750043785e+22
+	3 : 5805844189.54
+	2 : 0.000210594726148
+
+effect - correct sense: 3 - predicted sense: 1
+False
+	1 : 4.21730401263e+17
+	3 : 12836050.0789
+	2 : 0.00058498535041
+
+effect - correct sense: 1 - predicted sense: 1
+True
+	1 : 6.39193160469e+21
+	3 : 1737803.70299
+	2 : 6.31784178443e-05
+
+effect - correct sense: 1 - predicted sense: 1
+True
+	1 : 2.95394172421e+21
+	3 : 228424642.293
+	2 : 0.00112844396298
+
+complete - correct sense: 1 - predicted sense: 1
+True
+	1 : 10079900798.3
+	3 : 0.000470184984576
+
+complete - correct sense: 1 - predicted sense: 1
+True
+	1 : 109393.865425
+	3 : 2.19369506404e-05
+
+complete - correct sense: 3 - predicted sense: 1
+False
+	1 : 48324243.1181
+	3 : 7.89730223054e-06
+
+condition - correct sense: 1 - predicted sense: 1
+True
+	1 : 2.41764421699e+26
+	2 : 108146718.619
+
+condition - correct sense: 1 - predicted sense: 1
+True
+	1 : 9.63967904453e+18
+	2 : 403031.24951
+
+condition - correct sense: 1 - predicted sense: 1
+True
+	1 : 5.94101448057e+25
+	2 : 1001013550.78
+
+condition - correct sense: 1 - predicted sense: 1
+True
+	1 : 2.07662146349e+24
+	2 : 1061238855.85
+
+condition - correct sense: 1 - predicted sense: 1
+True
+	1 : 2.46944771225e+21
+	2 : 180837648.011
+
+condition - correct sense: 2 - predicted sense: 1
+False
+	1 : 4.05897145666e+13
+	2 : 515879.999373
+
+chance - correct sense: 1 - predicted sense: 1
+True
+	1 : 8.09249900445e+15
+	3 : 4.17942208512
+	2 : 0.00270826551116
+	4 : 1.8761686954e+16
+
+chance - correct sense: 4 - predicted sense: 4
+True
+	1 : 6500751.26639
+	3 : 0.00389990233607
+	2 : 3.79070507066e-05
+	4 : 3430077.82665
+
+chance - correct sense: 1 - predicted sense: 1
+True
+	1 : 3.99497471515e+16
+	3 : 0.129996744536
+	2 : 0.00389990233607
+	4 : 1.12745127857e+13
+
+estimate - correct sense: 1 - predicted sense: 1
+True
+	1 : 3.78236842818e+13
+
+estimate - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.21398659797e+12
+
+estimate - correct sense: 1 - predicted sense: 1
+True
+	1 : 3.21965209125e+16
+
+claim - correct sense: 1 - predicted sense: 1
+True
+	1 : 483425.393742
+	3 : 1.31621703842e-05
+	2 : 0.259993489071
+
+claim - correct sense: 1 - predicted sense: 1
+True
+	1 : 1469958500.83
+	3 : 4.73838133832e-06
+	2 : 0.568735757343
+
+claim - correct sense: 1 - predicted sense: 1
+True
+	1 : 9597.41590517
+	3 : 3.65615844006e-05
+	2 : 0.18199544235
+
+drug - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.35013356567e+22
+	2 : 1.10765226922e+15
+
+drug - correct sense: 1 - predicted sense: 1
+True
+	1 : 2.91305428027e+17
+	2 : 1.70683217922e+12
+
+drug - correct sense: 1 - predicted sense: 1
+True
+	1 : 9.93656686688e+18
+	2 : 3.36598296707e+12
+
+drug - correct sense: 1 - predicted sense: 1
+True
+	1 : 2.36704879947e+16
+	2 : 4.74410679216e+14
+
+drug - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.9925419527e+17
+	2 : 1.46565900896e+13
+
+drug - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.37202587337e+20
+	2 : 1.282314068e+12
+
+drug - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.19792516411e+27
+	2 : 5.51706140583e+16
+
+drug - correct sense: 1 - predicted sense: 1
+True
+	1 : 3.02256715265e+15
+	2 : 2191.98985983
+
+drug - correct sense: 1 - predicted sense: 1
+True
+	1 : 2.56394328836e+26
+	2 : 6.11460307179e+16
+
+rate - correct sense: 1 - predicted sense: 1
+True
+	1 : 3.48596612019e+39
+	2 : 3.16194879712e+21
+
+rate - correct sense: 1 - predicted sense: 1
+True
+	1 : 37495266552422903192002855815456000000
+	2 : 2.132131011e+14
+
+rate - correct sense: 1 - predicted sense: 1
+True
+	1 : 455523414114502375899616816819399941120000000
+	2 : 2.00196867704e+20
+
+rate - correct sense: 1 - predicted sense: 1
+True
+	1 : 2334191431890625336546283104755910802671505375232000000
+	2 : 8.72028095308e+17
+
+rate - correct sense: 1 - predicted sense: 1
+True
+	1 : 18644385188918065410803849074048802569420800000000
+	2 : 5.25187672199e+21
+
+rate - correct sense: 2 - predicted sense: 1
+False
+	1 : 5.07256046007e+36
+	2 : 6.09779577244e+24
+
+rate - correct sense: 1 - predicted sense: 1
+True
+	1 : 3.47380873189e+43
+	2 : 1.91247913517e+20
+
+rate - correct sense: 1 - predicted sense: 1
+True
+	1 : 6.40450538127e+39
+	2 : 4.79426873848e+24
+
+rate - correct sense: 1 - predicted sense: 1
+True
+	1 : 138059681451519258867128178728054292480000
+	2 : 6.38704830254e+19
+
+rate - correct sense: 1 - predicted sense: 1
+True
+	1 : 101227425358778305755470403737644431360000000
+	2 : 3.33661446173e+20
+
+rate - correct sense: 2 - predicted sense: 1
+False
+	1 : 54877382914305552081884282880
+	2 : 5353577349120000
+
+rate - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.12005598219e+40
+	2 : 1.27316906205e+23
+
+rate - correct sense: 2 - predicted sense: 1
+False
+	1 : 9.3417996555e+42
+	2 : 4.9764297974e+28
+
+rate - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.66438723554e+55
+	2 : 4.37960538938e+18
+
+rate - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.70349214802e+48
+	2 : 1.44964146039e+26
+
+rate - correct sense: 1 - predicted sense: 1
+True
+	1 : 6.31780789258e+46
+	2 : 3.25830248249e+13
+
+rate - correct sense: 1 - predicted sense: 1
+True
+	1 : 10797347540011904769104578103112950169600000000000
+	2 : 3.69563908237e+21
+
+rate - correct sense: 2 - predicted sense: 1
+False
+	1 : 1.48944834139e+23
+	2 : 2.87546582754e+13
+
+rate - correct sense: 1 - predicted sense: 1
+True
+	1 : 8709074690082439884090128491947399605256192000000
+	2 : 1.86663746111e+16
+
+rate - correct sense: 1 - predicted sense: 1
+True
+	1 : 574062973637144689371554049006097011995443200000
+	2 : 1.56064543155e+18
+
+rate - correct sense: 1 - predicted sense: 1
+True
+	1 : 8.42941968325e+54
+	2 : 3.28545500318e+16
+
+rate - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.23613008653e+38
+	2 : 9.43642906141e+19
+
+rate - correct sense: 1 - predicted sense: 1
+True
+	1 : 4.99316170662e+54
+	2 : 4.37960538938e+18
+
+rate - correct sense: 1 - predicted sense: 1
+True
+	1 : 4.33917325113e+32
+	2 : 1.73536537007e+21
+
+rate - correct sense: 1 - predicted sense: 1
+True
+	1 : 470323786196798193428783470046741116425338880000
+	2 : 7.42463299747e+20
+
+rate - correct sense: 1 - predicted sense: 1
+True
+	1 : 3.13633283082e+39
+	2 : 4.70387784583e+18
+
+rate - correct sense: 1 - predicted sense: 1
+True
+	1 : 5.75841865209e+46
+	2 : 2.71525206875e+13
+
+rate - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.29499594962e+40
+	2 : 4.05978710235e+22
+
+rate - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.23275481298e+46
+	2 : 1.15663778829e+24
+
+future - correct sense: 3 - predicted sense: 3
+True
+	1 : 9.71721903924e+11
+	3 : 6.15771080801e+33
+	4 : 7216.85052086
+
+future - correct sense: 3 - predicted sense: 3
+True
+	1 : 7994781733.83
+	3 : 1517889808519662093776264492935324416000000
+	4 : 1564.77562867
+
+future - correct sense: 3 - predicted sense: 3
+True
+	1 : 5.29626296933e+15
+	3 : 2.64133342094e+29
+	4 : 1086127.31437
+
+future - correct sense: 3 - predicted sense: 3
+True
+	1 : 26909359051.2
+	3 : 1.6397300872e+25
+	4 : 20316.635136
+
+future - correct sense: 1 - predicted sense: 3
+False
+	1 : 1.42880596755e+16
+	3 : 3.74075654909e+25
+	4 : 3070069309.44
+
+future - correct sense: 3 - predicted sense: 3
+True
+	1 : 5.81242155505e+12
+	3 : 1.12673023344e+34
+	4 : 118513.70496
+
+future - correct sense: 3 - predicted sense: 3
+True
+	1 : 2.81605007757e+13
+	3 : 3.99252554317e+35
+	4 : 31892.6475038
+
+future - correct sense: 3 - predicted sense: 3
+True
+	1 : 1.0040416587e+13
+	3 : 7603411386403007142384198116966400
+	4 : 13441.6309248
+
+future - correct sense: 3 - predicted sense: 3
+True
+	1 : 12.6381210078
+	3 : 3.30717998109e+20
+	4 : 0.00365615844006
+
+future - correct sense: 3 - predicted sense: 3
+True
+	1 : 8673220.29948
+	3 : 1.54413541497e+30
+	4 : 2.1064287309
+
+future - correct sense: 3 - predicted sense: 3
+True
+	1 : 3499116.65521
+	3 : 1.07199834419e+19
+	4 : 852.602105364
+
+future - correct sense: 3 - predicted sense: 3
+True
+	1 : 1.59454745978e+12
+	3 : 1.43098862757e+32
+	4 : 2842.00701788
+
+future - correct sense: 3 - predicted sense: 3
+True
+	1 : 1.13397299012e+11
+	3 : 9.53163680975e+33
+	4 : 128.64261178
+
+future - correct sense: 3 - predicted sense: 3
+True
+	1 : 2.05670301179e+12
+	3 : 3.0292033105e+32
+	4 : 63997.4006784
+
+future - correct sense: 3 - predicted sense: 3
+True
+	1 : 4.52082631931e+14
+	3 : 2.41299916772e+39
+	4 : 829824.255001
+
+future - correct sense: 3 - predicted sense: 3
+True
+	1 : 1122633260.21
+	3 : 9.17419474263e+29
+	4 : 329.325086157
+
+future - correct sense: 3 - predicted sense: 3
+True
+	1 : 9.36463244562e+16
+	3 : 1.23012181056e+24
+	4 : 1167312588.37
+
+future - correct sense: 3 - predicted sense: 3
+True
+	1 : 2.26227611528e+15
+	3 : 3.16116091149e+35
+	4 : 2382270.58852
+
+future - correct sense: 3 - predicted sense: 3
+True
+	1 : 8.86816125098e+13
+	3 : 8.63890317834e+39
+	4 : 192963.91767
+
+future - correct sense: 3 - predicted sense: 3
+True
+	1 : 2.6137623833e+18
+	3 : 8.69863603055e+38
+	4 : 542744395.776
+
+future - correct sense: 3 - predicted sense: 3
+True
+	1 : 1.0725814319e+17
+	3 : 1.51511058973e+34
+	4 : 3301827.03569
+
+future - correct sense: 3 - predicted sense: 3
+True
+	1 : 1.27730717607e+13
+	3 : 2.47346050649e+33
+	4 : 352928.976077
+
+future - correct sense: 3 - predicted sense: 3
+True
+	1 : 1.53276861128e+14
+	3 : 1.21959921064e+36
+	4 : 47645.4117704
+
+future - correct sense: 3 - predicted sense: 3
+True
+	1 : 1.09886603616e+11
+	3 : 4.33379349758e+35
+	4 : 275.841857618
+
+future - correct sense: 3 - predicted sense: 3
+True
+	1 : 997896231.302
+	3 : 6.68913143632e+31
+	4 : 1.29996744536
+
+future - correct sense: 3 - predicted sense: 3
+True
+	1 : 1.05057019556e+13
+	3 : 5.4076506001e+36
+	4 : 3785163.26842
+
+future - correct sense: 3 - predicted sense: 3
+True
+	1 : 3.57079414705e+16
+	3 : 7.44075865817e+38
+	4 : 6123388.32073
+
+future - correct sense: 3 - predicted sense: 3
+True
+	1 : 75.8287260469
+	3 : 3.85837664461e+22
+	4 : 0.00731231688013
+
+future - correct sense: 1 - predicted sense: 3
+False
+	1 : 3.91098631891e+14
+	3 : 1.51349506804e+25
+	4 : 16980824.755
+
+describe - correct sense: 1 - predicted sense: 1
+True
+	1 : 3.37325943637e+13
+	3 : 0.0493581389409
+	2 : 6.0935974001e-05
+
+describe - correct sense: 1 - predicted sense: 1
+True
+	1 : 65171600.9544
+	3 : 0.00164527129803
+	2 : 2.19369506404e-05
+
+describe - correct sense: 1 - predicted sense: 1
+True
+	1 : 2.97820048622e+14
+	3 : 0.0329054259606
+	2 : 2.19369506404e-05
+
+enjoy - correct sense: 2 - predicted sense: 1
+False
+	1 : 1909835.93971
+	2 : 3.12804666539
+
+enjoy - correct sense: 2 - predicted sense: 1
+False
+	1 : 53807.5516927
+	2 : 0.321741942726
+
+value - correct sense: 2 - predicted sense: 2
+True
+	1 : 17653.8788875
+	3 : 8.93727618682
+	2 : 8.11323071992e+27
+
+value - correct sense: 2 - predicted sense: 2
+True
+	1 : 10030.6130043
+	3 : 6.77066377789
+	2 : 1.49732461348e+34
+
+value - correct sense: 2 - predicted sense: 2
+True
+	1 : 1702727.51616
+	3 : 94.0369969152
+	2 : 35061263905027943548117529395200
+
+value - correct sense: 2 - predicted sense: 2
+True
+	1 : 526.486815369
+	3 : 0.268118285605
+	2 : 2022860114015799508528478400000000
+
+value - correct sense: 2 - predicted sense: 2
+True
+	1 : 82331.2715392
+	3 : 33.8533188895
+	2 : 1.44330509485e+25
+
+value - correct sense: 2 - predicted sense: 2
+True
+	1 : 4192796.23579
+	3 : 81.9250317125
+	2 : 6300243622598871087733423472640000
+
+value - correct sense: 2 - predicted sense: 2
+True
+	1 : 15.4371134136
+	3 : 0.0268118285605
+	2 : 12794620668223678306678729801728000000
+
+value - correct sense: 2 - predicted sense: 2
+True
+	1 : 11214626.5633
+	3 : 1340.59142802
+	2 : 8.57486375711e+28
+
+value - correct sense: 2 - predicted sense: 2
+True
+	1 : 27088846.848
+	3 : 96.2938848412
+	2 : 1418890104630126833804874496770048000
+
+value - correct sense: 2 - predicted sense: 2
+True
+	1 : 47797877.088
+	3 : 772.180662541
+	2 : 2.83343989437e+33
+
+value - correct sense: 2 - predicted sense: 2
+True
+	1 : 519986.978142
+	3 : 5.79135496906
+	2 : 12945443785174427753085122956492800
+
+find - correct sense: 1 - predicted sense: 1
+True
+	1 : 1393589174.89
+	3 : 0.79623006028
+	2 : 0.000292492675205
+	5 : 0.0134059142802
+	4 : 6.0935974001e-05
+
+find - correct sense: 1 - predicted sense: 1
+True
+	1 : 2.13167740879e+15
+	3 : 3639.908847
+	2 : 0.000105297363074
+	5 : 11.7972045666
+	4 : 1.31621703842e-05
+
+find - correct sense: 1 - predicted sense: 1
+True
+	1 : 7.12105827487e+20
+	3 : 825.720062513
+	2 : 0.000175495605123
+	5 : 634.427445582
+	4 : 3.65615844006e-05
+
+find - correct sense: 1 - predicted sense: 1
+True
+	1 : 7.75333110345e+16
+	3 : 176.940013396
+	2 : 0.000406239826674
+	5 : 60.8293360465
+	4 : 3.65615844006e-05
+
+find - correct sense: 1 - predicted sense: 1
+True
+	1 : 3.09027431762e+19
+	3 : 17340.1213128
+	2 : 0.000487487792008
+	5 : 189.641277112
+	4 : 2.19369506404e-05
+
+need - correct sense: 1 - predicted sense: 1
+True
+	1 : 2.00524988267e+16
+	2 : 1.42879060817e+11
+
+need - correct sense: 1 - predicted sense: 1
+True
+	1 : 3.69735839934e+15
+	2 : 7313520553.69
+
+need - correct sense: 1 - predicted sense: 1
+True
+	1 : 2.47771862412e+13
+	2 : 2971117724.94
+
+need - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.62795393989e+22
+	2 : 2.54649548341e+15
+
+need - correct sense: 2 - predicted sense: 1
+False
+	1 : 2.3239681977e+20
+	2 : 2.04944824452e+13
+
+need - correct sense: 2 - predicted sense: 1
+False
+	1 : 3.63878624339e+20
+	2 : 1.03617730657e+14
+
+need - correct sense: 1 - predicted sense: 1
+True
+	1 : 2.23337014589e+24
+	2 : 6.02052078325e+18
+
+need - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.27076753851e+25
+	2 : 4.16703923292e+19
+
+need - correct sense: 2 - predicted sense: 1
+False
+	1 : 1.64672991634e+17
+	2 : 5.94937755979e+13
+
+need - correct sense: 1 - predicted sense: 1
+True
+	1 : 7.89074571003e+16
+	2 : 2.82900540418e+11
+
+need - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.05782575376e+17
+	2 : 5.66607386646e+11
+
+produce - correct sense: 1 - predicted sense: 1
+True
+	1 : 2.82735974655e+15
+	2 : 145596.35388
+
+produce - correct sense: 2 - predicted sense: 1
+False
+	1 : 1.5014700068e+19
+	2 : 1169970.70082
+
+produce - correct sense: 1 - predicted sense: 1
+True
+	1 : 5.50620528769e+14
+	2 : 139453.383574
+
+produce - correct sense: 1 - predicted sense: 1
+True
+	1 : 3.42966827546e+17
+	2 : 31369.8394157
+
+produce - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.31303630995e+21
+	2 : 4277.70537487
+
+produce - correct sense: 1 - predicted sense: 1
+True
+	1 : 2.38967318092e+13
+	2 : 350.991210246
+
+produce - correct sense: 1 - predicted sense: 1
+True
+	1 : 6.09079004224e+17
+	2 : 15724.406219
+
+produce - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.99319648423e+13
+	2 : 22.814428666
+
+carrier - correct sense: 6 - predicted sense: 6
+True
+	10 : 2.19369506404e-05
+	2 : 0.00116997070082
+	4 : 61.9290046885
+	7 : 0.0108330620446
+	6 : 8.76118363484e+13
+	9 : 2.19369506404e-05
+	8 : 0.00329054259606
+
+carrier - correct sense: 6 - predicted sense: 6
+True
+	10 : 3.65615844006e-05
+	2 : 0.0155996093443
+	4 : 40640.9093268
+	7 : 26.7483013448
+	6 : 2.91469105224e+25
+	9 : 2.19369506404e-05
+	8 : 0.0137105941502
+
+carrier - correct sense: 5 - predicted sense: 6
+False
+	10 : 4.73838133832e-06
+	2 : 3.79070507066e-05
+	4 : 4.12765663249
+	7 : 0.00280792968197
+	6 : 37924929.3213
+	9 : 4.73838133832e-06
+	8 : 0.00059229766729
+
+carrier - correct sense: 6 - predicted sense: 6
+True
+	10 : 3.65615844006e-05
+	2 : 0.000105297363074
+	4 : 19.1095214467
+	7 : 0.00649983722678
+	6 : 4.01557319565e+17
+	9 : 1.31621703842e-05
+	8 : 0.00548423766009
+
+ask - correct sense: 1 - predicted sense: 1
+True
+	1 : 8.42899592338e+30
+	3 : 0.00203119913337
+	2 : 6.92096705865e+24
+	5 : 0.017414258688
+	4 : 1.31621703842e-05
+	6 : 0.225688792596
+
+ask - correct sense: 6 - predicted sense: 1
+False
+	1 : 1.69397792714e+24
+	3 : 0.0150459195064
+	2 : 2.32445241412e+19
+	5 : 0.000406239826674
+	4 : 2.19369506404e-05
+	6 : 0.0121871948002
+
+ask - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.72639194087e+17
+	3 : 0.00389990233607
+	2 : 8.94438926078e+14
+	5 : 0.000974975584017
+	4 : 7.89730223054e-06
+	6 : 0.0131621703842
+
+ask - correct sense: 1 - predicted sense: 1
+True
+	1 : 2.10818962484e+24
+	3 : 0.00324991861339
+	2 : 4.21414159161e+18
+	5 : 0.000487487792008
+	4 : 1.31621703842e-05
+	6 : 0.0146246337603
+
+ask - correct sense: 2 - predicted sense: 1
+False
+	1 : 7.61641680362e+22
+	3 : 0.00389990233607
+	2 : 5.93220441821e+18
+	5 : 0.00225688792596
+	4 : 2.19369506404e-05
+	6 : 0.203119913337
+
+ask - correct sense: 2 - predicted sense: 1
+False
+	1 : 2.57930666961e+23
+	3 : 0.00233994140164
+	2 : 5.33145165399e+19
+	5 : 0.000292492675205
+	4 : 4.73838133832e-06
+	6 : 0.0131621703842
+
+ask - correct sense: 1 - predicted sense: 1
+True
+	1 : 3.75787345556e+22
+	3 : 0.00280792968197
+	2 : 4.62191495917e+19
+	5 : 0.00116997070082
+	4 : 1.31621703842e-05
+	6 : 0.0329054259606
+
+ask - correct sense: 1 - predicted sense: 1
+True
+	1 : 2.75657361638e+27
+	3 : 0.0116997070082
+	2 : 9.82097702371e+20
+	5 : 0.00116997070082
+	4 : 4.73838133832e-06
+	6 : 0.00182807922003
+
+ask - correct sense: 2 - predicted sense: 2
+True
+	1 : 3526467.84
+	3 : 0.0125382662554
+	2 : 11391528.96
+	5 : 0.00313456656384
+	4 : 0.00078364164096
+	6 : 0.00705277476864
+
+ask - correct sense: 2 - predicted sense: 1
+False
+	1 : 8.96414689777e+35
+	3 : 0.0180551034077
+	2 : 6.37730412636e+30
+	5 : 0.00270826551116
+	4 : 2.84302880299e-06
+	6 : 2.70826551116
+
+ask - correct sense: 1 - predicted sense: 1
+True
+	1 : 5.96273349679e+25
+	3 : 0.00779980467213
+	2 : 1.23496579064e+20
+	5 : 0.00194995116803
+	4 : 1.31621703842e-05
+	6 : 0.0914039610016
+
+hour - correct sense: 1 - predicted sense: 1
+True
+	1 : 5.16159924248e+19
+	3 : 4.73838133832e-06
+	2 : 292492.675205
+	4 : 2.84302880299e-06
+
+hour - correct sense: 1 - predicted sense: 1
+True
+	1 : 8.33431645003e+18
+	3 : 7.89730223054e-06
+	2 : 39495.5387044
+	4 : 4.73838133832e-06
+
+hour - correct sense: 1 - predicted sense: 1
+True
+	1 : 9.76824467471e+19
+	3 : 2.84302880299e-06
+	2 : 3056776.9658
+	4 : 7.89730223054e-06
+
+hour - correct sense: 1 - predicted sense: 1
+True
+	1 : 3.05316338643e+21
+	3 : 3.65615844006e-05
+	2 : 53623.6571209
+	4 : 7.89730223054e-06
+
+hour - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.32733961293e+26
+	3 : 1.31621703842e-05
+	2 : 7.2556464243e+11
+	4 : 4.73838133832e-06
+
+hour - correct sense: 1 - predicted sense: 1
+True
+	1 : 6.95624201913e+23
+	3 : 0.0013060694016
+	2 : 14082980658.0
+	4 : 0.000169266594447
+
+hour - correct sense: 1 - predicted sense: 1
+True
+	1 : 5.0057902462e+23
+	3 : 3.65615844006e-05
+	2 : 45710572.4731
+	4 : 3.65615844006e-05
+
+hour - correct sense: 1 - predicted sense: 1
+True
+	1 : 6.3514635233e+27
+	3 : 3.65615844006e-05
+	2 : 1463222028.9
+	4 : 2.19369506404e-05
+
+hour - correct sense: 1 - predicted sense: 1
+True
+	1 : 6.57730744154e+21
+	3 : 6.0935974001e-05
+	2 : 78424.5985394
+	4 : 6.0935974001e-05
+
+care - correct sense: 2 - predicted sense: 1
+False
+	1 : 1956674813.31
+	3 : 0.53331167232
+	2 : 93.6190547067
+
+affect - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.32323219839e+12
+
+affect - correct sense: 1 - predicted sense: 1
+True
+	1 : 10950925759.7
+
+affect - correct sense: 1 - predicted sense: 1
+True
+	1 : 3.31656733495e+15
+
+express - correct sense: 1 - predicted sense: 1
+True
+	1 : 3.80064802725e+14
+
+express - correct sense: 1 - predicted sense: 1
+True
+	1 : 3.07908473566e+11
+
+occur - correct sense: 1 - predicted sense: 1
+True
+	1 : 6740650929.96
+	2 : 28.2110990746
+
+occur - correct sense: 1 - predicted sense: 1
+True
+	1 : 32756989540.5
+	2 : 16717.6883405
+
+occur - correct sense: 1 - predicted sense: 1
+True
+	1 : 4005140184.17
+	2 : 270.826551116
+
+occur - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.72496513752e+11
+	2 : 19.4995116803
+
+propose - correct sense: 2 - predicted sense: 1
+False
+	1 : 5033301.23612
+	2 : 0.13060694016
+
+propose - correct sense: 1 - predicted sense: 1
+True
+	1 : 231983002.257
+	2 : 0.0487487792008
+
+begin - correct sense: 2 - predicted sense: 1
+False
+	1 : 5.19211242881e+11
+	3 : 2.84302880299e-06
+	2 : 44207356.4718
+	4 : 6.31784178443e-05
+
+begin - correct sense: 2 - predicted sense: 1
+False
+	1 : 5.35081564556e+16
+	3 : 2.84302880299e-06
+	2 : 7.04442428331e+12
+	4 : 1.89535253533e-05
+
+begin - correct sense: 2 - predicted sense: 1
+False
+	1 : 8265294772.57
+	3 : 1.31621703842e-05
+	2 : 155264861.755
+	4 : 8.77478025615e-05
+
+begin - correct sense: 2 - predicted sense: 1
+False
+	1 : 1.78415715225e+16
+	3 : 3.65615844006e-05
+	2 : 1.17050334518e+12
+	4 : 0.000487487792008
+
+begin - correct sense: 1 - predicted sense: 1
+True
+	1 : 5.32332962316e+14
+	3 : 3.65615844006e-05
+	2 : 4.60315130978e+12
+	4 : 0.000812479653347
+
+begin - correct sense: 1 - predicted sense: 1
+True
+	1 : 4.24951543412e+14
+	3 : 2.19369506404e-05
+	2 : 58237634617.3
+	4 : 0.000175495605123
+
+begin - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.38340028582e+13
+	3 : 1.31621703842e-05
+	2 : 1253871206.04
+	4 : 0.000175495605123
+
+begin - correct sense: 2 - predicted sense: 1
+False
+	1 : 1002870718.78
+	3 : 6.0935974001e-05
+	2 : 29420405.0594
+	4 : 0.000487487792008
+
+begin - correct sense: 1 - predicted sense: 1
+True
+	1 : 9.99638646129e+12
+	3 : 3.65615844006e-05
+	2 : 13962099.5813
+	4 : 4.38739012808e-05
+
+defense - correct sense: 7 - predicted sense: 7
+True
+	1 : 714.982094946
+	2 : 460781.284884
+	5 : 5.33189772509
+	4 : 1164.04637001
+	7 : 6402373705.73
+	6 : 0.0914039610016
+	8 : 47.7896018323
+
+defense - correct sense: 8 - predicted sense: 4
+False
+	1 : 0.614234617931
+	2 : 0.122846923586
+	5 : 0.000255872592269
+	4 : 0.496961434763
+	7 : 15.2876171574
+	6 : 7.10757200748e-05
+	8 : 0.0159262261649
+
+defense - correct sense: 1 - predicted sense: 4
+False
+	1 : 2252.72678885
+	2 : 2985.86272605
+	5 : 105.79162153
+	4 : 7410100.311
+	7 : 2047097.65498
+	6 : 0.235092492288
+	8 : 22.5293837209
+
+defense - correct sense: 1 - predicted sense: 4
+False
+	1 : 916.860719923
+	2 : 230.390642442
+	5 : 2.11583243059
+	4 : 955114.970268
+	7 : 1502.41516831
+	6 : 0.0126949945836
+	8 : 2.04812579281
+
+part - correct sense: 2 - predicted sense: 1
+False
+	1 : 4.09588114937e+24
+	2 : 1.93829006444e+14
+	5 : 0.541653102232
+	4 : 2.19369506404e-05
+
+part - correct sense: 1 - predicted sense: 1
+True
+	1 : 2.79424581943e+32
+	2 : 3.13485659832e+15
+	5 : 350.991210246
+	4 : 2.19369506404e-05
+
+part - correct sense: 2 - predicted sense: 1
+False
+	1 : 5.87750231071e+29
+	2 : 3.56611879885e+16
+	5 : 224634.374557
+	4 : 0.000282110990746
+
+part - correct sense: 2 - predicted sense: 1
+False
+	1 : 3.76309711733e+37
+	2 : 9.75594534922e+20
+	5 : 31199.2186885
+	4 : 7.89730223054e-06
+
+part - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.562091527e+33
+	2 : 3.04290080477e+18
+	5 : 20061.2260086
+	4 : 0.000101559956668
+
+part - correct sense: 1 - predicted sense: 1
+True
+	1 : 4.96167641987e+28
+	2 : 1.01145821345e+13
+	5 : 1787.45523736
+	4 : 2.19369506404e-05
+
+part - correct sense: 1 - predicted sense: 1
+True
+	1 : 57494235997924846848000000
+	2 : 1.18882732451e+11
+	5 : 6.77066377789
+	4 : 2.19369506404e-05
+
+part - correct sense: 2 - predicted sense: 1
+False
+	1 : 2.34626626219e+33
+	2 : 3.44648792769e+18
+	5 : 13899.2519257
+	4 : 7.89730223054e-06
+
+part - correct sense: 2 - predicted sense: 1
+False
+	1 : 1.41949456986e+33
+	2 : 4.13722143139e+18
+	5 : 1324040.91657
+	4 : 0.000101559956668
+
+part - correct sense: 1 - predicted sense: 1
+True
+	1 : 2.06979017497e+36
+	2 : 1.70432313241e+17
+	5 : 3860.90331271
+	4 : 3.65615844006e-05
+
+part - correct sense: 1 - predicted sense: 1
+True
+	1 : 3.12516328747e+31
+	2 : 1.61549045817e+14
+	5 : 39721.227497
+	4 : 2.19369506404e-05
+
+part - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.5927788346e+30
+	2 : 3.00843715036e+13
+	5 : 413.762786427
+	4 : 3.65615844006e-05
+
+part - correct sense: 5 - predicted sense: 1
+False
+	1 : 4.12383233345e+20
+	2 : 4.93797890448e+11
+	5 : 10448.5552128
+	4 : 0.00078364164096
+
+part - correct sense: 5 - predicted sense: 1
+False
+	1 : 112351362397153305702756480000000000
+	2 : 2.70803014394e+17
+	5 : 5516837.15236
+	4 : 0.000101559956668
+
+disclose - correct sense: 1 - predicted sense: 1
+True
+	1 : 285710375.916
+
+disclose - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.38518160911e+15
+
+come - correct sense: 2 - predicted sense: 2
+True
+	11 : 4.1091158468
+	1 : 2924723.63214
+	3 : 58.498535041
+	2 : 29772301.2973
+	5 : 1696.45751619
+	4 : 0.000118459533458
+	7 : 0.00105297363074
+	6 : 0.00701982420492
+	9 : 0.00280792968197
+	8 : 1.21871948002
+
+come - correct sense: 4 - predicted sense: 1
+False
+	11 : 1862.08299812
+	1 : 2.67710269524e+13
+	3 : 39.4865111527
+	2 : 14871808125.9
+	5 : 106164008.037
+	4 : 0.00182807922003
+	7 : 0.0162495930669
+	6 : 0.00389990233607
+	9 : 0.00233994140164
+	8 : 7.52295975322
+
+come - correct sense: 2 - predicted sense: 1
+False
+	11 : 547882.112907
+	1 : 1.61170100307e+15
+	3 : 672265.164691
+	2 : 6.3915648384e+14
+	5 : 1.87107502473e+11
+	4 : 0.0888446500935
+	7 : 0.269561249469
+	6 : 0.499187499017
+	9 : 0.134780624734
+	8 : 758.314343124
+
+come - correct sense: 11 - predicted sense: 1
+False
+	11 : 14911765.2173
+	1 : 6.90175885477e+13
+	3 : 15672832.8192
+	2 : 1.84528949607e+12
+	5 : 3095718912.0
+	4 : 0.176319369216
+	7 : 82.556485632
+	6 : 0.46438023168
+	9 : 2.50765325107
+	8 : 14511.88224
+
+come - correct sense: 1 - predicted sense: 1
+True
+	11 : 2793124.49717
+	1 : 5.60731328166e+13
+	3 : 7129.50895812
+	2 : 3.91726297625e+12
+	5 : 1449617922.25
+	4 : 0.00394865111527
+	7 : 0.421189452295
+	6 : 0.0162495930669
+	9 : 0.0252713671377
+	8 : 853.103636015
+
+come - correct sense: 11 - predicted sense: 1
+False
+	11 : 63130449.2239
+	1 : 2.16199467289e+13
+	3 : 678729.252813
+	2 : 1.67945038642e+12
+	5 : 55745131.7713
+	4 : 0.0987162778817
+	7 : 2.88881654523
+	6 : 3.85175539365
+	9 : 0.962938848412
+	8 : 18284.9716224
+
+come - correct sense: 2 - predicted sense: 1
+False
+	11 : 90.1657420099
+	1 : 2674644382.38
+	3 : 84.2378904591
+	2 : 6835720.37787
+	5 : 53177.9217555
+	4 : 0.000355378600374
+	7 : 0.00505427342754
+	6 : 0.00252713671377
+	9 : 0.0187195312131
+	8 : 2.74211883005
+
+come - correct sense: 1 - predicted sense: 1
+True
+	11 : 326120.305302
+	1 : 43329238994.6
+	3 : 1052.97363074
+	2 : 29776812.2521
+	5 : 2110956.43816
+	4 : 0.00296148833645
+	7 : 0.129996744536
+	6 : 0.00935976560656
+	9 : 0.0233994140164
+	8 : 12.1871948002
+
+job - correct sense: 2 - predicted sense: 1
+False
+	1 : 1.05445647576e+23
+	3 : 5.80584418954
+	2 : 2.67535172635e+11
+
+job - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.16140581114e+15
+	3 : 1.49293136303
+	2 : 2357725678.5
+
+job - correct sense: 1 - predicted sense: 1
+True
+	1 : 3.84084783327e+24
+	3 : 9.40546758706
+	2 : 4.15320438119e+11
+
+job - correct sense: 1 - predicted sense: 1
+True
+	1 : 2.38434842679e+16
+	3 : 0.102372436322
+	2 : 309647190.55
+
+job - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.27902509846e+15
+	3 : 0.0859928465103
+	2 : 1358759.71436
+
+job - correct sense: 1 - predicted sense: 1
+True
+	1 : 2.59972800932e+17
+	3 : 0.39811503014
+	2 : 693041057.759
+
+job - correct sense: 1 - predicted sense: 1
+True
+	1 : 4.29278876988e+23
+	3 : 0.351137456584
+	2 : 91407850650.4
+
+believe - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.31040089676e+25
+	2 : 1.29068129191e+13
+
+believe - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.33384066498e+17
+	2 : 923652.280812
+
+believe - correct sense: 1 - predicted sense: 1
+True
+	1 : 8.40764208678e+23
+	2 : 394034576.77
+
+believe - correct sense: 1 - predicted sense: 1
+True
+	1 : 2.7353803604e+20
+	2 : 15082872.2847
+
+believe - correct sense: 1 - predicted sense: 1
+True
+	1 : 2.38553670892e+19
+	2 : 1800.86115164
+
+believe - correct sense: 1 - predicted sense: 1
+True
+	1 : 3714614460291879144000000
+	2 : 739770071040000
+
+believe - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.59272019429e+19
+	2 : 20860540482.4
+
+believe - correct sense: 2 - predicted sense: 1
+False
+	1 : 7.65599304015e+19
+	2 : 5.11862181609e+11
+
+believe - correct sense: 1 - predicted sense: 1
+True
+	1 : 2.37185291884e+23
+	2 : 11793304.6643
+
+believe - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.03814012598e+26
+	2 : 9.18271274877e+11
+
+believe - correct sense: 1 - predicted sense: 1
+True
+	1 : 3.82810298699e+23
+	2 : 7.24122491046e+13
+
+authority - correct sense: 3 - predicted sense: 3
+True
+	1 : 7.55662266576e+14
+	3 : 1.36598829589e+16
+	5 : 0.000505427342754
+	4 : 1.31621703842e-05
+
+authority - correct sense: 1 - predicted sense: 3
+False
+	1 : 12855066449.4
+	3 : 5836813707.2
+	5 : 0.000379070507066
+	4 : 7.89730223054e-06
+
+authority - correct sense: 3 - predicted sense: 1
+False
+	1 : 1.01975286738e+11
+	3 : 61798124924.9
+	5 : 0.000974975584017
+	4 : 2.19369506404e-05
+
+authority - correct sense: 1 - predicted sense: 1
+True
+	1 : 5.88373986171e+13
+	3 : 43028940165.1
+	5 : 0.0626913312768
+	4 : 0.0013060694016
+
+prove - correct sense: 2 - predicted sense: 2
+True
+	1 : 25115.3710443
+	3 : 3.65615844006e-05
+	2 : 664427.805404
+
+prove - correct sense: 1 - predicted sense: 1
+True
+	1 : 34882.4597837
+	3 : 6.0935974001e-05
+	2 : 4090.21757007
+
+prove - correct sense: 1 - predicted sense: 1
+True
+	1 : 819166728.684
+	3 : 0.000470184984576
+	2 : 645971477.476
+
+prove - correct sense: 2 - predicted sense: 1
+False
+	1 : 141956445.033
+	3 : 2.19369506404e-05
+	2 : 36543529.2972
+
+system - correct sense: 2 - predicted sense: 2
+True
+	1 : 4.6294462559e+14
+	3 : 8.77478025615e-05
+	2 : 8.6398309898e+21
+	5 : 0.000292492675205
+	4 : 181941207.708
+
+system - correct sense: 2 - predicted sense: 2
+True
+	1 : 2.27790514072e+22
+	3 : 0.00752295975322
+	2 : 2.20982372213e+30
+	5 : 0.0108330620446
+	4 : 1.27518088408e+15
+
+system - correct sense: 2 - predicted sense: 2
+True
+	1 : 8.48773413571e+19
+	3 : 0.000121871948002
+	2 : 1.37356896407e+33
+	5 : 0.000292492675205
+	4 : 2.1652753748e+14
+
+system - correct sense: 2 - predicted sense: 2
+True
+	1 : 4.40942452787e+22
+	3 : 0.000105297363074
+	2 : 3.39705750559e+30
+	5 : 0.00140396484098
+	4 : 5.03746793419e+14
+
+system - correct sense: 4 - predicted sense: 2
+False
+	1 : 1.02581449851e+15
+	3 : 0.000175495605123
+	2 : 2.53857369316e+18
+	5 : 0.000105297363074
+	4 : 2.94983315827e+13
+
+system - correct sense: 2 - predicted sense: 2
+True
+	1 : 4.90827802635e+18
+	3 : 0.000974975584017
+	2 : 5.31895549075e+25
+	5 : 0.000974975584017
+	4 : 1.27778466816e+15
+
+system - correct sense: 1 - predicted sense: 2
+False
+	1 : 2.84074013056e+15
+	3 : 8.77478025615e-05
+	2 : 2.08779342117e+21
+	5 : 8.77478025615e-05
+	4 : 1162111529.78
+
+system - correct sense: 2 - predicted sense: 2
+True
+	1 : 9.40348110774e+17
+	3 : 0.000812479653347
+	2 : 1.08250688999e+26
+	5 : 0.00162495930669
+	4 : 4.16272654084e+15
+
+system - correct sense: 4 - predicted sense: 2
+False
+	1 : 3.70192472433e+12
+	3 : 0.000146246337603
+	2 : 1.91760289056e+19
+	5 : 0.000243743896004
+	4 : 32049375832.0
+
+system - correct sense: 4 - predicted sense: 2
+False
+	1 : 98786.2414074
+	3 : 6.31784178443e-05
+	2 : 3141810070.71
+	5 : 3.15892089221e-05
+	4 : 21058.4570152
+
+system - correct sense: 2 - predicted sense: 2
+True
+	1 : 11018628385.2
+	3 : 5.26486815369e-05
+	2 : 6.44380685547e+19
+	5 : 2.63243407685e-05
+	4 : 499163.425545
+
+system - correct sense: 1 - predicted sense: 2
+False
+	1 : 4.35915983462e+15
+	3 : 0.000487487792008
+	2 : 3.05176292473e+21
+	5 : 0.000105297363074
+	4 : 2485059295.28
+
+system - correct sense: 2 - predicted sense: 2
+True
+	1 : 1.62280008217e+22
+	3 : 6.31784178443e-05
+	2 : 9.56469410002e+26
+	5 : 0.000292492675205
+	4 : 1.55513671946e+13
+
+system - correct sense: 2 - predicted sense: 2
+True
+	1 : 6.35485732413e+17
+	3 : 0.00225688792596
+	2 : 1.09996308681e+27
+	5 : 0.000487487792008
+	4 : 2.34394667469e+14
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 6.30543581892e+25
+	3 : 0.00940369969152
+	2 : 0.00112844396298
+	5 : 0.000121871948002
+	4 : 361.467767587
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 2.29826848487e+48
+	3 : 0.10579162153
+	2 : 0.0722204136309
+	5 : 0.000812479653347
+	4 : 4262226885.18
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 6.39356437327e+37
+	3 : 0.0304679870005
+	2 : 0.00877478025615
+	5 : 0.000203119913337
+	4 : 5411.11449129
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 2.59403047915e+40
+	3 : 0.78364164096
+	2 : 0.33435376681
+	5 : 0.00112844396298
+	4 : 43814274.859
+
+say - correct sense: 2 - predicted sense: 1
+False
+	1 : 2.225871373e+41
+	3 : 0.338533188895
+	2 : 0.00779980467213
+	5 : 0.000146246337603
+	4 : 342035.878956
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 5.65844553931e+50
+	3 : 0.250765325107
+	2 : 1.80551034077
+	5 : 4.38739012808e-05
+	4 : 16824681.5459
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 21591203714673281487876510660062186852018280207704138880000000
+	3 : 0.109684753202
+	2 : 0.00263243407685
+	5 : 1.57946044611e-05
+	4 : 77937863.0433
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 3.85897628036e+46
+	3 : 0.00394865111527
+	2 : 0.0129996744536
+	5 : 8.77478025615e-05
+	4 : 130905681.773
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 2.1925297217e+49
+	3 : 5.64221981491
+	2 : 0.0155996093443
+	5 : 0.000105297363074
+	4 : 3920352.44894
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.3289459207e+45
+	3 : 4.23166486118
+	2 : 6.01836780257
+	5 : 0.000812479653347
+	4 : 2277958953.85
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 881827346847864181538475136616590826825748615475200000
+	3 : 7.346640384
+	2 : 0.270826551116
+	5 : 0.000487487792008
+	4 : 741523096.955
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.98014202677e+52
+	3 : 6.77066377789
+	2 : 1.80551034077
+	5 : 0.000677066377789
+	4 : 1.13566600435e+14
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 8.08026788361e+38
+	3 : 0.6530347008
+	2 : 0.0180551034077
+	5 : 0.000406239826674
+	4 : 9896871.49756
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 2.6579893403e+41
+	3 : 2.35092492288
+	2 : 0.324991861339
+	5 : 0.000406239826674
+	4 : 585894792.656
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 2.51918766604e+47
+	3 : 0.152339935003
+	2 : 0.292492675205
+	5 : 1.57946044611e-05
+	4 : 12056013.1895
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 6.43987686992e+57
+	3 : 0.164527129803
+	2 : 0.0105297363074
+	5 : 1.1372115212e-05
+	4 : 46752029.2048
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 5.11899638801e+49
+	3 : 0.0109684753202
+	2 : 0.00194995116803
+	5 : 3.15892089221e-05
+	4 : 1.10035041015e+11
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.70656658556e+47
+	3 : 3.52638738432
+	2 : 0.0487487792008
+	5 : 5.26486815369e-05
+	4 : 1623334.34739
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 3.73155969653e+42
+	3 : 0.0438739012808
+	2 : 1.44440827262
+	5 : 5.26486815369e-05
+	4 : 1168800.73012
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 2.52368450269e+39
+	3 : 97.95520512
+	2 : 3.00918390129
+	5 : 0.00225688792596
+	4 : 686595460.144
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.09966227688e+55
+	3 : 0.507799783342
+	2 : 0.311992186885
+	5 : 5.26486815369e-05
+	4 : 30167564523.9
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 271768834274393621199236093469915360215789076480000
+	3 : 0.203119913337
+	2 : 0.00541653102232
+	5 : 1.89535253533e-05
+	4 : 2281686.6105
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.0005005927e+40
+	3 : 0.0438739012808
+	2 : 0.00935976560656
+	5 : 0.000175495605123
+	4 : 134412.083964
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 2.29887580054e+52
+	3 : 0.169266594447
+	2 : 0.0300918390129
+	5 : 8.77478025615e-05
+	4 : 525771298.308
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 3247514219012656221339093211003258377864235324538880000
+	3 : 6.0935974001
+	2 : 4.51377585193
+	5 : 0.000243743896004
+	4 : 958781848.926
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.23275965025e+60
+	3 : 0.394865111527
+	2 : 0.0606512811305
+	5 : 1.1372115212e-05
+	4 : 2.35448413745e+11
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.26120068313e+42
+	3 : 0.00164527129803
+	2 : 0.00526486815369
+	5 : 1.57946044611e-05
+	4 : 67638.9311412
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.91727621372e+46
+	3 : 0.914039610016
+	2 : 1.35413275558
+	5 : 0.000406239826674
+	4 : 350640219.036
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 2753101062273717209805058010993491061778677760000
+	3 : 0.0228509902504
+	2 : 0.0812479653347
+	5 : 3.15892089221e-05
+	4 : 11273155.1902
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 2.15467912216e+40
+	3 : 0.000263243407685
+	2 : 0.0722204136309
+	5 : 2.63243407685e-05
+	4 : 1026.10763687
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 9.22871992771e+37
+	3 : 0.00761699675013
+	2 : 0.0194995116803
+	5 : 0.000105297363074
+	4 : 2004116.47826
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.13980104311e+55
+	3 : 0.00548423766009
+	2 : 0.060935974001
+	5 : 9.47676267664e-06
+	4 : 68139960260.7
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.01560351591e+44
+	3 : 29.386561536
+	2 : 66.8707533619
+	5 : 0.00112844396298
+	4 : 1.38417644765e+11
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 2.0086456263e+30
+	3 : 0.0039182082048
+	2 : 0.000677066377789
+	5 : 0.000338533188895
+	4 : 149.1499008
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 4.36606148877e+44
+	3 : 0.00152339935003
+	2 : 7.58141014131e-05
+	5 : 4.09396147631e-06
+	4 : 2885927.72869
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 6.35764258271e+46
+	3 : 0.00731231688013
+	2 : 0.00233994140164
+	5 : 1.89535253533e-05
+	4 : 905516.190652
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 3.18319265731e+53
+	3 : 2.35092492288
+	2 : 4.17942208512
+	5 : 8.77478025615e-05
+	4 : 5836061411.22
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.19328480167e+48
+	3 : 0.634749729178
+	2 : 0.259993489071
+	5 : 0.000974975584017
+	4 : 6673707872.59
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 2.82736241084e+48
+	3 : 0.00219369506404
+	2 : 0.00116997070082
+	5 : 3.15892089221e-05
+	4 : 389689.315217
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 9.26231096424e+45
+	3 : 0.058773123072
+	2 : 0.0058498535041
+	5 : 5.26486815369e-05
+	4 : 347936.888586
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 266666396226466293185659665505031864843246544537600000
+	3 : 2.64479053824
+	2 : 0.902755170386
+	5 : 0.000292492675205
+	4 : 1.13545724221e+13
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 4.07573380257e+51
+	3 : 0.0121871948002
+	2 : 0.0180551034077
+	5 : 9.47676267664e-06
+	4 : 63339977.5844
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.41377199329e+47
+	3 : 0.190424918753
+	2 : 0.541653102232
+	5 : 0.000677066377789
+	4 : 27055572.4565
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 4.82215385931e+46
+	3 : 0.0194995116803
+	2 : 0.00243743896004
+	5 : 9.47676267664e-06
+	4 : 47801889.3332
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.1316477589e+51
+	3 : 0.101559956668
+	2 : 0.0649983722678
+	5 : 0.000292492675205
+	4 : 11133980434.8
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 201982721725257829734055106687683263180916654080000
+	3 : 1.64527129803
+	2 : 0.0116997070082
+	5 : 3.15892089221e-05
+	4 : 18019011.256
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 2.29855453015e+46
+	3 : 0.152339935003
+	2 : 0.0210594726148
+	5 : 8.77478025615e-05
+	4 : 721481.932172
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 5.09729786636e+43
+	3 : 0.705277476864
+	2 : 0.0292492675205
+	5 : 0.000243743896004
+	4 : 5010291.19564
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 615133468655422993635003099895567497912991088640000000
+	3 : 2.53899891671
+	2 : 0.0243743896004
+	5 : 1.57946044611e-05
+	4 : 1.73195251207e+11
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 5.18913386413e+55
+	3 : 58.773123072
+	2 : 17.3328992714
+	5 : 0.00162495930669
+	4 : 2.33579775541e+16
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.84954051908e+38
+	3 : 0.0846332972237
+	2 : 0.00779980467213
+	5 : 0.000243743896004
+	4 : 50416.0551561
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.48788888071e+46
+	3 : 3.52638738432
+	2 : 3.20979616137
+	5 : 0.00058498535041
+	4 : 630809579.007
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 8.85072046945e+50
+	3 : 0.0685529707512
+	2 : 0.0175495605123
+	5 : 5.26486815369e-05
+	4 : 450926.207608
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 3.63808305877e+41
+	3 : 0.112844396298
+	2 : 0.0162495930669
+	5 : 0.000203119913337
+	4 : 1991745388.88
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 6.3653163957e+55
+	3 : 0.0548423766009
+	2 : 0.389990233607
+	5 : 1.89535253533e-05
+	4 : 1247005808.69
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 60214168160636293031505347563990548480000
+	3 : 0.00164527129803
+	2 : 0.00233994140164
+	5 : 0.000292492675205
+	4 : 6012.34943477
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.99116414078e+30
+	3 : 0.00011372115212
+	2 : 0.000105297363074
+	5 : 2.04698073815e-06
+	4 : 55.5180346807
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.50800787687e+34
+	3 : 0.0705277476864
+	2 : 0.0180551034077
+	5 : 0.00135413275558
+	4 : 81185.2740035
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 4.71476384026e+59
+	3 : 54.8423766009
+	2 : 2.24634374557
+	5 : 6.31784178443e-05
+	4 : 5.32973132934e+12
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.32003987567e+48
+	3 : 4.57019805008
+	2 : 0.0421189452295
+	5 : 0.000146246337603
+	4 : 5681670215.86
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 4.44958135792e+43
+	3 : 0.0225688792596
+	2 : 0.00902755170386
+	5 : 4.38739012808e-05
+	4 : 34639050.2415
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 8.31624886602e+49
+	3 : 0.0507799783342
+	2 : 0.0219369506404
+	5 : 0.000406239826674
+	4 : 494843574.878
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 5.85356614981e+50
+	3 : 0.060935974001
+	2 : 0.00701982420492
+	5 : 3.15892089221e-05
+	4 : 1246720.77879
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 231940273737052246461114872623174506428497920000
+	3 : 2.9386561536
+	2 : 0.112844396298
+	5 : 0.00313456656384
+	4 : 346390502.415
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.78845478023e+46
+	3 : 58.773123072
+	2 : 3.61102068154
+	5 : 0.000812479653347
+	4 : 33368539363.0
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 8958372271130195289814034991865132501931309137920000
+	3 : 2.53899891671
+	2 : 1.50459195064
+	5 : 0.000243743896004
+	4 : 23335431243.7
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 2.54808337689e+46
+	3 : 0.0634749729178
+	2 : 0.0433322481785
+	5 : 5.26486815369e-05
+	4 : 801646.591303
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 2.16811607616e+31
+	3 : 0.5038848
+	2 : 0.11609505792
+	5 : 0.0018807399383
+	4 : 644327.571456
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 3468138764993184193736939496429160860588441600000
+	3 : 0.752295975322
+	2 : 0.108330620446
+	5 : 0.000243743896004
+	4 : 196287951.368
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.43665259336e+41
+	3 : 3.76147987661
+	2 : 0.200612260086
+	5 : 0.000121871948002
+	4 : 22407135.625
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 4.27650077224e+44
+	3 : 35.2638738432
+	2 : 1.16997070082
+	5 : 0.000974975584017
+	4 : 4504752814.0
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 3.12156394835e+55
+	3 : 0.00822635649014
+	2 : 0.00189535253533
+	5 : 9.47676267664e-06
+	4 : 852250532.379
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 2.00054511099e+54
+	3 : 3.17374864589
+	2 : 0.0974975584017
+	5 : 1.89535253533e-05
+	4 : 33067921891.2
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 3.58135792034e+53
+	3 : 0.210594726148
+	2 : 0.240734712103
+	5 : 1.89535253533e-05
+	4 : 537556146.497
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 8.11552510455e+52
+	3 : 0.123395347352
+	2 : 1.08330620446
+	5 : 6.31784178443e-05
+	4 : 9.58218191167e+12
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 5.01187836784e+59
+	3 : 4.57019805008
+	2 : 0.779980467213
+	5 : 0.000175495605123
+	4 : 8.65778318607e+14
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 92929609001817876372533098362861616084281061339837440000000
+	3 : 0.914039610016
+	2 : 0.361102068154
+	5 : 0.000292492675205
+	4 : 411957276.086
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.71005384331e+42
+	3 : 0.0457019805008
+	2 : 0.00140396484098
+	5 : 0.000175495605123
+	4 : 1753601.91847
+
+say - correct sense: 4 - predicted sense: 1
+False
+	1 : 2.06332497113e+39
+	3 : 0.00731231688013
+	2 : 0.00389990233607
+	5 : 8.77478025615e-05
+	4 : 1962430.85551
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.17778651223e+48
+	3 : 2.82110990746
+	2 : 0.324991861339
+	5 : 0.000677066377789
+	4 : 44491385817.3
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 8.25482939716e+51
+	3 : 75.2295975322
+	2 : 3.61102068154
+	5 : 0.000406239826674
+	4 : 1.38336270488e+11
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.01381890107e+36
+	3 : 0.000355378600374
+	2 : 0.000421189452295
+	5 : 8.77478025615e-05
+	4 : 649.333738955
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.09011047629e+48
+	3 : 0.0109684753202
+	2 : 0.00140396484098
+	5 : 5.26486815369e-05
+	4 : 101458396.712
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 1334065993408372467439011491020800
+	3 : 0.08707129344
+	2 : 0.0156728328192
+	5 : 0.000564221981491
+	4 : 28636.7809536
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 53102094711938896666624544285564988047228928000000
+	3 : 32.65173504
+	2 : 0.129996744536
+	5 : 0.000812479653347
+	4 : 3945604316.57
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 3.14514678074e+36
+	3 : 0.117546246144
+	2 : 0.0180551034077
+	5 : 0.000146246337603
+	4 : 36074.0966086
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.41140422735e+49
+	3 : 0.00329054259606
+	2 : 0.0105297363074
+	5 : 1.57946044611e-05
+	4 : 350640.219036
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 2116601871625066696469273161048246120152895177359360000000
+	3 : 0.761699675013
+	2 : 4.33322481785
+	5 : 5.26486815369e-05
+	4 : 12783757985.7
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 1532744705024835332815695023568322560000000000
+	3 : 0.114254951252
+	2 : 0.116997070082
+	5 : 0.000292492675205
+	4 : 7515436.79346
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 571165975802556296807514747258908307836030976000000000
+	3 : 0.0731231688013
+	2 : 0.00935976560656
+	5 : 5.26486815369e-05
+	4 : 132464082.747
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 5.27472656235e+31
+	3 : 0.058773123072
+	2 : 0.034828517376
+	5 : 0.000564221981491
+	4 : 49834.7106048
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 2.5701286373e+50
+	3 : 0.0253899891671
+	2 : 0.194995116803
+	5 : 0.000105297363074
+	4 : 5471307573.02
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 2.54654231221e+56
+	3 : 653.0347008
+	2 : 0.0935976560656
+	5 : 0.000175495605123
+	4 : 4.14437258888e+11
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.60613763059e+53
+	3 : 0.812479653347
+	2 : 0.0649983722678
+	5 : 5.26486815369e-05
+	4 : 272246697.843
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 7.73367423385e+64
+	3 : 78.364164096
+	2 : 4.33322481785
+	5 : 0.000487487792008
+	4 : 5.12657943574e+15
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 2.33866161175e+43
+	3 : 1.69266594447
+	2 : 0.00974975584017
+	5 : 4.38739012808e-05
+	4 : 3847903.63825
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.28258587774e+44
+	3 : 87.07129344
+	2 : 0.00324991861339
+	5 : 0.000243743896004
+	4 : 14168206470.0
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 5.05231985174e+44
+	3 : 1.26949945836
+	2 : 2.70826551116
+	5 : 0.000487487792008
+	4 : 1.44296386434e+11
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 2.90560594095e+51
+	3 : 3.52638738432
+	2 : 0.0601836780257
+	5 : 0.000146246337603
+	4 : 35628737.3912
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 5.54018289188e+34
+	3 : 0.0169266594447
+	2 : 0.0129996744536
+	5 : 0.000243743896004
+	4 : 2966.09238782
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 601671547684963762267166090082080613504379636531200
+	3 : 2.11583243059
+	2 : 0.406239826674
+	5 : 0.000487487792008
+	4 : 445359217.39
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 2.12284094935e+49
+	3 : 1.01559956668
+	2 : 0.902755170386
+	5 : 0.000203119913337
+	4 : 26721553.0434
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 2.32202358627e+52
+	3 : 0.00493581389409
+	2 : 0.0175495605123
+	5 : 5.26486815369e-05
+	4 : 584400.36506
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 11281558498021450528940753654110879331804774400000000
+	3 : 0.0685529707512
+	2 : 0.0140396484098
+	5 : 0.000292492675205
+	4 : 6628615251.83
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 6.24064275721e+53
+	3 : 1.21871948002
+	2 : 4.33322481785
+	5 : 5.26486815369e-05
+	4 : 87118943309.8
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 8.76087703726e+47
+	3 : 0.457019805008
+	2 : 0.292492675205
+	5 : 0.000243743896004
+	4 : 1.44296386434e+11
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.17373582152e+46
+	3 : 0.313456656384
+	2 : 0.0250765325107
+	5 : 0.000146246337603
+	4 : 71546958.2738
+
+say - correct sense: 1 - predicted sense: 1
+True
+	1 : 107204761256513252056395112291056145026851853090000000000
+	3 : 1306.0694016
+	2 : 25.0765325107
+	5 : 0.00451377585193
+	4 : 5.69619937304e+13
+
+avoid - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.09039902181e+14
+
+avoid - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.09152778074e+11
+
+avoid - correct sense: 1 - predicted sense: 1
+True
+	1 : 3.07286900834e+16
+
+improve - correct sense: 1 - predicted sense: 1
+True
+	1 : 2479274459.14
+
+improve - correct sense: 1 - predicted sense: 1
+True
+	1 : 1703466093.57
+
+improve - correct sense: 1 - predicted sense: 1
+True
+	1 : 73485694.9688
+
+attempt - correct sense: 1 - predicted sense: 1
+True
+	1 : 401364.948754
+
+attempt - correct sense: 1 - predicted sense: 1
+True
+	1 : 25013841.1794
+
+approve - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.96200647885e+11
+	2 : 0.00109684753202
+
+approve - correct sense: 1 - predicted sense: 1
+True
+	1 : 25160120.9524
+	2 : 1.7058172818e-05
+
+recall - correct sense: 1 - predicted sense: 1
+True
+	1 : 9511844559.87
+	3 : 6.0935974001e-05
+	2 : 0.000175495605123
+
+recall - correct sense: 1 - predicted sense: 1
+True
+	1 : 12099853.2375
+	3 : 1.31621703842e-05
+	2 : 8.77478025615e-05
+
+recall - correct sense: 1 - predicted sense: 1
+True
+	1 : 4809661.38198
+	3 : 0.000101559956668
+	2 : 8.77478025615e-05
+
+build - correct sense: 3 - predicted sense: 1
+False
+	1 : 1.72691225965e+12
+	3 : 566208042.866
+	2 : 2.19369506404
+
+build - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.38997416202e+16
+	3 : 2064300.15628
+	2 : 1.37105941502
+
+build - correct sense: 1 - predicted sense: 1
+True
+	1 : 7.37818623058e+11
+	3 : 13817909.1711
+	2 : 0.0329054259606
+
+build - correct sense: 1 - predicted sense: 1
+True
+	1 : 9.97091692551e+11
+	3 : 42101993.687
+	2 : 0.507799783342
+
+build - correct sense: 1 - predicted sense: 1
+True
+	1 : 9.85718615432e+15
+	3 : 14862961.1252
+	2 : 0.118459533458
+
+build - correct sense: 1 - predicted sense: 1
+True
+	1 : 8.75427651962e+12
+	3 : 6758125.51164
+	2 : 1.09684753202
+
+build - correct sense: 1 - predicted sense: 1
+True
+	1 : 31377011304.0
+	3 : 806.367248548
+	2 : 0.00394865111527
+
+build - correct sense: 2 - predicted sense: 1
+False
+	1 : 1.85937844765e+14
+	3 : 43553786.5728
+	2 : 0.274211883005
+
+build - correct sense: 1 - predicted sense: 1
+True
+	1 : 260052669.688
+	3 : 20064.9975191
+	2 : 0.219369506404
+
+move - correct sense: 2 - predicted sense: 2
+True
+	1 : 0.0280792968197
+	3 : 1370.89366917
+	2 : 7.02690505372e+32
+	4 : 0.00467988280328
+
+move - correct sense: 2 - predicted sense: 2
+True
+	1 : 0.601836780257
+	3 : 1566.3531181
+	2 : 2.30334728853e+23
+	4 : 0.108330620446
+
+move - correct sense: 2 - predicted sense: 2
+True
+	1 : 0.0108330620446
+	3 : 0.562280606497
+	2 : 2.62545177265e+29
+	4 : 0.144440827262
+
+move - correct sense: 2 - predicted sense: 2
+True
+	1 : 3.4828517376
+	3 : 1594.13026406
+	2 : 5.94586939955e+20
+	4 : 1.85752092672
+
+move - correct sense: 2 - predicted sense: 2
+True
+	1 : 0.000243743896004
+	3 : 0.513442003157
+	2 : 9.03609330705e+15
+	4 : 0.0752295975322
+
+move - correct sense: 2 - predicted sense: 2
+True
+	1 : 0.541653102232
+	3 : 833.008305922
+	2 : 18932259308758596706652651520
+	4 : 0.0487487792008
+
+move - correct sense: 2 - predicted sense: 2
+True
+	1 : 0.00454884608479
+	3 : 2.08204476006
+	2 : 6.90458626604e+29
+	4 : 0.0421189452295
+
+move - correct sense: 2 - predicted sense: 2
+True
+	1 : 1.55996093443
+	3 : 250.616498896
+	2 : 7.75091087346e+28
+	4 : 0.433322481785
+
+move - correct sense: 2 - predicted sense: 2
+True
+	1 : 0.162495930669
+	3 : 98.8625242193
+	2 : 4.56143100925e+30
+	4 : 0.0389990233607
+
+rush - correct sense: 1 - predicted sense: 1
+True
+	1 : 17386.3958741
+	2 : 5.26486815369e-05
+
+order - correct sense: 6 - predicted sense: 6
+True
+	1 : 1515879.73381
+	3 : 0.304679870005
+	2 : 0.00779980467213
+	5 : 0.000394865111527
+	4 : 0.000974975584017
+	7 : 1.31621703842e-05
+	6 : 267582814574547687398265115901952000
+
+order - correct sense: 6 - predicted sense: 6
+True
+	1 : 313942.138053
+	3 : 0.0438739012808
+	2 : 0.00292492675205
+	5 : 0.0060935974001
+	4 : 0.000487487792008
+	7 : 2.19369506404e-05
+	6 : 16021342132.2
+
+order - correct sense: 6 - predicted sense: 6
+True
+	1 : 9.48839511167e+12
+	3 : 9.87162778817
+	2 : 0.577763309047
+	5 : 0.0109684753202
+	4 : 0.00649983722678
+	7 : 2.19369506404e-05
+	6 : 2.52321460509e+36
+
+order - correct sense: 2 - predicted sense: 6
+False
+	1 : 69063434916.1
+	3 : 8.707129344
+	2 : 0.300918390129
+	5 : 0.00152339935003
+	4 : 0.000677066377789
+	7 : 6.0935974001e-05
+	6 : 4354862362569881453782123728076800
+
+order - correct sense: 6 - predicted sense: 6
+True
+	1 : 2.12956101413e+12
+	3 : 2.43743896004
+	2 : 0.0374390624262
+	5 : 0.00394865111527
+	4 : 0.000292492675205
+	7 : 1.31621703842e-05
+	6 : 8.69133143737e+36
+
+order - correct sense: 4 - predicted sense: 6
+False
+	1 : 30192024711.4
+	3 : 0.493581389409
+	2 : 0.0748781248525
+	5 : 0.00131621703842
+	4 : 0.00541653102232
+	7 : 2.19369506404e-05
+	6 : 5.2072135976e+22
+
+order - correct sense: 6 - predicted sense: 6
+True
+	1 : 5.21665225081e+11
+	3 : 0.169266594447
+	2 : 0.000701982420492
+	5 : 0.00152339935003
+	4 : 0.000406239826674
+	7 : 3.65615844006e-05
+	6 : 2.08985046886e+32
+
+order - correct sense: 6 - predicted sense: 6
+True
+	1 : 777857320.794
+	3 : 1.50459195064
+	2 : 0.00406239826674
+	5 : 0.000109684753202
+	4 : 4.38739012808e-05
+	7 : 3.65615844006e-05
+	6 : 5.6547019117e+32
+
+order - correct sense: 6 - predicted sense: 6
+True
+	1 : 3737.4064054
+	3 : 0.000365615844006
+	2 : 0.000974975584017
+	5 : 2.36919066916e-05
+	4 : 2.63243407685e-05
+	7 : 1.31621703842e-05
+	6 : 1107146766125812775524761600000
+
+order - correct sense: 6 - predicted sense: 6
+True
+	1 : 367684.657938
+	3 : 0.00157946044611
+	2 : 0.000350991210246
+	5 : 0.000197432555763
+	4 : 3.15892089221e-05
+	7 : 4.73838133832e-06
+	6 : 2.11155875408e+26
+
+order - correct sense: 6 - predicted sense: 6
+True
+	1 : 966098792.426
+	3 : 0.292492675205
+	2 : 0.00467988280328
+	5 : 0.00109684753202
+	4 : 0.00270826551116
+	7 : 1.31621703842e-05
+	6 : 1.76743475261e+29
+
+do - correct sense: 1 - predicted sense: 1
+True
+	1 : 7.32135768585e+24
+	3 : 0.00078364164096
+	2 : 55312039.1578
+	5 : 0.000101559956668
+
+do - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.34706393164e+21
+	3 : 0.000101559956668
+	2 : 762.461374688
+	5 : 6.0935974001e-05
+
+do - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.62330877572e+27
+	3 : 2.84302880299e-06
+	2 : 154032.600947
+	5 : 2.84302880299e-06
+
+do - correct sense: 1 - predicted sense: 1
+True
+	1 : 9.07965089961e+22
+	3 : 6.0935974001e-05
+	2 : 370270.675354
+	5 : 1.31621703842e-05
+
+do - correct sense: 1 - predicted sense: 1
+True
+	1 : 5.9431557322e+30
+	3 : 2.19369506404e-05
+	2 : 8296805.87366
+	5 : 6.0935974001e-05
+
+do - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.83065112367e+20
+	3 : 0.000470184984576
+	2 : 18139.8528
+	5 : 0.000169266594447
+
+do - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.74633556798e+25
+	3 : 6.0935974001e-05
+	2 : 427868.335964
+	5 : 2.19369506404e-05
+
+do - correct sense: 1 - predicted sense: 1
+True
+	1 : 7.91114524006e+28
+	3 : 1.31621703842e-05
+	2 : 5333660.91878
+	5 : 3.65615844006e-05
+
+do - correct sense: 2 - predicted sense: 1
+False
+	1 : 1.35195607642e+28
+	3 : 0.000101559956668
+	2 : 123423.558451
+	5 : 1.31621703842e-05
+
+do - correct sense: 1 - predicted sense: 1
+True
+	1 : 3.95883052784e+23
+	3 : 1.02349036908e-06
+	2 : 19907.7827061
+	5 : 2.84302880299e-06
+
+do - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.87930719074e+28
+	3 : 0.000101559956668
+	2 : 1629729725.18
+	5 : 3.65615844006e-05
+
+do - correct sense: 1 - predicted sense: 1
+True
+	1 : 4.83411376963e+20
+	3 : 4.73838133832e-06
+	2 : 28.7922477155
+	5 : 4.73838133832e-06
+
+start - correct sense: 2 - predicted sense: 2
+True
+	1 : 75979542.5826
+	3 : 11196985.2227
+	2 : 2.26403951453e+22
+	5 : 175583.268501
+	4 : 0.00355378600374
+	7 : 6.0935974001e-05
+
+start - correct sense: 5 - predicted sense: 2
+False
+	1 : 79.9601850842
+	3 : 458.628514721
+	2 : 2.36613162282e+12
+	5 : 3.95961959059
+	4 : 0.00118459533458
+	7 : 2.84302880299e-06
+
+start - correct sense: 2 - predicted sense: 2
+True
+	1 : 13436382.2672
+	3 : 81897.9490574
+	2 : 1.21867490803e+19
+	5 : 17.2481029366
+	4 : 0.0059229766729
+	7 : 1.31621703842e-05
+
+start - correct sense: 3 - predicted sense: 2
+False
+	1 : 14105.5495373
+	3 : 2843.67878672
+	2 : 3.41300907057e+14
+	5 : 131.987319686
+	4 : 0.00329054259606
+	7 : 1.31621703842e-05
+
+start - correct sense: 2 - predicted sense: 2
+True
+	1 : 9.14039610016
+	3 : 6.14234617931
+	2 : 1329356113.32
+	5 : 0.483953505516
+	4 : 0.00059229766729
+	7 : 1.31621703842e-05
+
+start - correct sense: 2 - predicted sense: 2
+True
+	1 : 45.7019805008
+	3 : 9.21351926896
+	2 : 4487602620.2
+	5 : 0.145186051655
+	4 : 0.00059229766729
+	7 : 3.65615844006e-05
+
+start - correct sense: 2 - predicted sense: 2
+True
+	1 : 13400.2720604
+	3 : 98.738846761
+	2 : 5.54172987505e+14
+	5 : 13.6875738934
+	4 : 0.00493581389409
+	7 : 6.0935974001e-05
+
+network - correct sense: 2 - predicted sense: 2
+True
+	1 : 6628302.21312
+	3 : 310268879.585
+	2 : 1.40811998082e+11
+
+network - correct sense: 2 - predicted sense: 2
+True
+	1 : 77312.5170138
+	3 : 3686250279.08
+	2 : 2.32965891446e+11
+
+network - correct sense: 2 - predicted sense: 2
+True
+	1 : 19977172606.2
+	3 : 1.52438253005e+15
+	2 : 6.56248892094e+15
+
+network - correct sense: 2 - predicted sense: 2
+True
+	1 : 321693600.743
+	3 : 2.38326320126e+11
+	2 : 2.83470595814e+18
+
+network - correct sense: 2 - predicted sense: 2
+True
+	1 : 13938.3726539
+	3 : 46809527353.3
+	2 : 9.62415059243e+15
+
+network - correct sense: 2 - predicted sense: 2
+True
+	1 : 89338908.5493
+	3 : 39314854513.9
+	2 : 3.63021632583e+13
+
+network - correct sense: 2 - predicted sense: 2
+True
+	1 : 48360092.9469
+	3 : 2709393955.12
+	2 : 5.31875010586e+18
+
+network - correct sense: 2 - predicted sense: 2
+True
+	1 : 148236411.223
+	3 : 2.65675430114e+12
+	2 : 1.02387296645e+20
+
+network - correct sense: 2 - predicted sense: 2
+True
+	1 : 63828095385.6
+	3 : 6.56883542208e+11
+	2 : 1.63413088812e+19
+
+network - correct sense: 2 - predicted sense: 2
+True
+	1 : 38484.4529136
+	3 : 1848813.79738
+	2 : 12223518995.6
+
+network - correct sense: 2 - predicted sense: 2
+True
+	1 : 682980260.04
+	3 : 1.04250343541e+14
+	2 : 3.52764656296e+17
+
+regard - correct sense: 1 - predicted sense: 1
+True
+	1 : 7170525.63929
+	3 : 7.58314343124
+	2 : 51.1862181609
+
+regard - correct sense: 1 - predicted sense: 1
+True
+	1 : 40114828.7513
+	3 : 401.224520172
+	2 : 21.3275909004
+
+go - correct sense: 1 - predicted sense: 1
+True
+	11 : 0.000701982420492
+	10 : 338.533188895
+	13 : 0.00914039610016
+	14 : 92191520850.7
+	1 : 8.25863296375e+22
+	3 : 1.31621703842e-05
+	2 : 7334.88575939
+	5 : 0.0109684753202
+	4 : 55159359644.7
+	7 : 6.37516875428e+18
+	9 : 0.00058498535041
+	8 : 8.77478025615e-05
+
+go - correct sense: 7 - predicted sense: 1
+False
+	11 : 0.00902755170386
+	10 : 50779.9783342
+	13 : 0.423166486118
+	14 : 4.03219497647e+12
+	1 : 6.09415951566e+20
+	3 : 0.000169266594447
+	2 : 23509249.2288
+	5 : 0.0846332972237
+	4 : 25402490282.9
+	7 : 5.87425116472e+17
+	9 : 0.000812479653347
+	8 : 0.00752295975322
+
+go - correct sense: 1 - predicted sense: 1
+True
+	11 : 0.00752295975322
+	10 : 2380.31148442
+	13 : 0.9795520512
+	14 : 37085405302.0
+	1 : 2.07199837314e+18
+	3 : 0.000282110990746
+	2 : 6856.8643584
+	5 : 0.0564221981491
+	4 : 9205734398.75
+	7 : 1.61609082336e+15
+	9 : 0.00752295975322
+	8 : 0.0250765325107
+
+go - correct sense: 1 - predicted sense: 1
+True
+	11 : 0.00058498535041
+	10 : 257.073640317
+	13 : 0.00365615844006
+	14 : 34460923.2722
+	1 : 1.99209130544e+16
+	3 : 3.65615844006e-05
+	2 : 1347.78525829
+	5 : 0.0164527129803
+	4 : 6064954.42741
+	7 : 8.24567155089e+11
+	9 : 0.000105297363074
+	8 : 8.77478025615e-05
+
+go - correct sense: 7 - predicted sense: 1
+False
+	11 : 0.0361102068154
+	10 : 2879.22477155
+	13 : 0.0182807922003
+	14 : 8.94872362391e+11
+	1 : 3.68895648221e+23
+	3 : 6.0935974001e-05
+	2 : 407297.742889
+	5 : 0.0822635649014
+	4 : 4548715820.56
+	7 : 5.52610373605e+15
+	9 : 0.000292492675205
+	8 : 0.000487487792008
+
+go - correct sense: 1 - predicted sense: 1
+True
+	11 : 0.00389990233607
+	10 : 1421.83939336
+	13 : 0.0225688792596
+	14 : 3.37300716504e+13
+	1 : 1.41094801217e+23
+	3 : 3.65615844006e-05
+	2 : 143994.151526
+	5 : 0.156728328192
+	4 : 25782350835.8
+	7 : 4.62147574083e+19
+	9 : 5.26486815369e-05
+	8 : 0.000121871948002
+
+go - correct sense: 7 - predicted sense: 1
+False
+	11 : 0.00541653102232
+	10 : 14.2183939336
+	13 : 0.0282110990746
+	14 : 3939021726.78
+	1 : 9.2913913061e+14
+	3 : 3.65615844006e-05
+	2 : 856.91213439
+	5 : 0.112844396298
+	4 : 131769324.012
+	7 : 4.12021360558e+12
+	9 : 0.000812479653347
+	8 : 0.00135413275558
+
+go - correct sense: 7 - predicted sense: 1
+False
+	11 : 0.000487487792008
+	10 : 31.5964309635
+	13 : 0.0225688792596
+	14 : 200598328.679
+	1 : 1.93274666061e+15
+	3 : 3.65615844006e-05
+	2 : 293.86561536
+	5 : 0.0313456656384
+	4 : 459773.579782
+	7 : 95375314944.0
+	9 : 0.00135413275558
+	8 : 0.000338533188895
+
+go - correct sense: 7 - predicted sense: 1
+False
+	11 : 0.0129996744536
+	10 : 127965.545402
+	13 : 0.564221981491
+	14 : 7.34380928992e+12
+	1 : 1.2761599596e+20
+	3 : 2.19369506404e-05
+	2 : 433216.690164
+	5 : 0.846332972237
+	4 : 68081520175.7
+	7 : 2.4371063477e+16
+	9 : 0.000974975584017
+	8 : 0.00376147987661
+
+go - correct sense: 1 - predicted sense: 1
+True
+	11 : 0.086664496357
+	10 : 1974.77693522
+	13 : 0.0203119913337
+	14 : 3019916657.2
+	1 : 7.8869241571e+20
+	3 : 7.89730223054e-06
+	2 : 616.976736761
+	5 : 0.0146246337603
+	4 : 108067316.855
+	7 : 7.55009334503e+15
+	9 : 3.15892089221e-05
+	8 : 0.000175495605123
+
+go - correct sense: 1 - predicted sense: 1
+True
+	11 : 0.00058498535041
+	10 : 6.16976736761
+	13 : 0.00548423766009
+	14 : 9374366340.22
+	1 : 2.49257077555e+20
+	3 : 2.19369506404e-05
+	2 : 440.79842304
+	5 : 0.00987162778817
+	4 : 7557358.2889
+	7 : 1.05386823604e+14
+	9 : 0.000210594726148
+	8 : 0.000105297363074
+
+go - correct sense: 1 - predicted sense: 1
+True
+	11 : 0.00779980467213
+	10 : 21327.5909004
+	13 : 0.0507799783342
+	14 : 6.74010384361e+15
+	1 : 2.38382808443e+24
+	3 : 1.31621703842e-05
+	2 : 2468471.16902
+	5 : 0.00731231688013
+	4 : 11783340030.4
+	7 : 7.71154255872e+20
+	9 : 3.15892089221e-05
+	8 : 0.000292492675205
+
+negotiate - correct sense: 1 - predicted sense: 1
+True
+	1 : 857930868.523
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 3.595905105e+12
+	2 : 82195757001569241298106107747076545421005130676830208000000000
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 2.52881307328e+15
+	2 : 120802352136721658620954130313566664148634218628760207360000
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 6.89956381031e+11
+	2 : 4.14467066624e+56
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 3.82849910373e+12
+	2 : 3990863231967983287019869123662985591403852372901888000
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 8.15874872498e+22
+	2 : 3021890713834979196821861047403032347042656477393549877313536000000
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 6116390162.65
+	2 : 5.10799074629e+49
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 26572143451.7
+	2 : 9.39018820713e+49
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 3.84819380717e+16
+	2 : 8.94538017401e+51
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 4.88424598602e+11
+	2 : 4.67951451312e+36
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 594862495.035
+	2 : 6.42697485209e+39
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 1.09456129044e+11
+	2 : 6.02187197806e+41
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 170678818.558
+	2 : 1.04005415175e+33
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 184902313.998
+	2 : 8.48874662384e+50
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 2182301306.4
+	2 : 3.60614069036e+54
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 1.0429646149e+11
+	2 : 2.11011727212e+51
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 1.766992513e+20
+	2 : 4.15766653038e+65
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 2.66259332158e+11
+	2 : 3.93228485381e+51
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 3.07143288253e+14
+	2 : 3.73802694177e+50
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 1375182240.77
+	2 : 57883615428977395267293840879360
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 49756469785.9
+	2 : 1.08677260132e+55
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 15486444281.8
+	2 : 6960695395893708757800061507679538905088000000000
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 262201413.906
+	2 : 3.31286950851e+41
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 1.42521863165e+15
+	2 : 3369465839075862477439201197839786452343640961843200000000
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 1.22389923341e+14
+	2 : 6.37783688851e+49
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 926762815.698
+	2 : 1.1634175824e+44
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 4.54371322201e+13
+	2 : 57482351084298930815561051861173721802986136717911654400
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 3.03546436857e+13
+	2 : 4.56470620508e+47
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 153534249.625
+	2 : 6.84521427319e+59
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 7.68324585358e+15
+	2 : 4133471198408482589030133025896202154994748932721999872000000000
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 6.88581806423e+16
+	2 : 6.46244538518e+53
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 1.3320670871e+17
+	2 : 1.65522250003e+59
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 3.95228696172e+12
+	2 : 7135540227475386066906391133874363717203526955091519078400000
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 2.49825598702e+17
+	2 : 3580683902536799261825667921888401146618481579715337328913285120000
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 1.32402326112e+16
+	2 : 9.13201716421e+57
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 520168.973585
+	2 : 4.41684937533e+44
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 1280724626.02
+	2 : 3.88520339942e+52
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 2.54629937139e+15
+	2 : 5285452087073363742870846596345572606714935508992000000
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 1.10569932858e+15
+	2 : 3914681213652097497484316308539706065692062947020636160000
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 2.85116726724e+12
+	2 : 2.83228321699e+51
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 95356764790.6
+	2 : 9.99502261675e+53
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 4.59970920687e+12
+	2 : 2.81102921214e+56
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 6.95635034373e+17
+	2 : 2.01294460836e+59
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 3.59625491465e+17
+	2 : 3.70967327665e+66
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 6.10427774607e+11
+	2 : 4.57048450632e+50
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 25550137934.3
+	2 : 1.90974793769e+49
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 48085592632.2
+	2 : 2.73595031997e+50
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 2.40156325799e+14
+	2 : 5.2845003329e+53
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 4.62845738942e+14
+	2 : 2.91889734852e+52
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 2.04203600908e+18
+	2 : 9.20555404275e+60
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 3.99812343602e+14
+	2 : 2608530647066284228590598389658701272145104606673386864640
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 115232413.592
+	2 : 5.3049631564e+43
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 1.78012601639e+18
+	2 : 1.17445588205e+64
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 8.77378371214e+15
+	2 : 1.21126597056e+48
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 8.05764662481e+12
+	2 : 9.45868673565e+44
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 1.58118056521e+19
+	2 : 4.59688297274e+65
+
+share - correct sense: 1 - predicted sense: 2
+False
+	1 : 1498293793.75
+	2 : 1.13365258413e+41
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 1.60831963641e+12
+	2 : 3.98638503779e+44
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 1.95732306675e+13
+	2 : 1.89269671303e+49
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 6.86780023423e+15
+	2 : 17212702584306491769294001804139460166810524362735616000000
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 3.11588446353e+14
+	2 : 440960703376588485942393118470174455641454413528480874496000
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 4.11869904432e+13
+	2 : 1.36656310353e+51
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 3.36328375632e+16
+	2 : 2.14925852093e+49
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 1.98447721725e+11
+	2 : 2.0838317637e+40
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 1.38618369869e+12
+	2 : 70482515099354491513714518754655770713363407123251200000
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 6.63813431737e+17
+	2 : 3.22821703913e+55
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 4.38102502303e+11
+	2 : 2.98031098773e+42
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 1.96830692235e+12
+	2 : 1.59906607046e+51
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 2.68544724759e+16
+	2 : 4.22193256362e+52
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 3.68684007912e+14
+	2 : 1.79227758626e+49
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 1.36291495648e+16
+	2 : 4.00215613861e+57
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 1099894330.72
+	2 : 1.54562270538e+46
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 2.16244656996e+13
+	2 : 6.76403682412e+45
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 1.65473353638e+12
+	2 : 3.03947592912e+46
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 3.95814220166e+16
+	2 : 1.79645839833e+60
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 1.60953894488e+17
+	2 : 2.41205884247e+69
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 2.74087878004e+14
+	2 : 6.13216060268e+53
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 22234525.4928
+	2 : 2587055610443517369100211440650107904000
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 6.27766889046e+12
+	2 : 1.72327398723e+56
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 1.18698396718e+15
+	2 : 3.14700435905e+39
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 1.13654228259e+14
+	2 : 9.23968650419e+50
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 85672093366.6
+	2 : 6.99482689512e+51
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 34545206165.6
+	2 : 16552618268052525915314473307717988133969019409003547650111427313664000000
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 1.11592921759e+14
+	2 : 1.18600318243e+54
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 18640314446.9
+	2 : 1.73049279333e+49
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 1.69634665785e+13
+	2 : 3821119581335619436429982260808204847932613375452774400000
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 6130785024.0
+	2 : 702373360842852575186607897600000
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 1.6590427383e+15
+	2 : 2339668528662591481709337057414790784579862528570962214912000
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 2445797.80421
+	2 : 6.03352668263e+53
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 5.79783710147e+14
+	2 : 1.49221556947e+65
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 1.32728910991e+14
+	2 : 8.65073313452e+50
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 2.92451591029e+16
+	2 : 4.76081060805e+61
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 4.39507997717e+15
+	2 : 4.48755959895e+59
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 13026166242.9
+	2 : 2.43424822159e+42
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 1.75765738358e+11
+	2 : 2.55871839052e+53
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 1.6652723976e+17
+	2 : 7.76853228709e+55
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 2.5625640588e+17
+	2 : 1.40362950075e+62
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 2.18669686364e+15
+	2 : 1.28255665965e+53
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 8209388268.67
+	2 : 5.44846888838e+41
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 1.27405683951e+17
+	2 : 3.77283605791e+57
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 5.34802439847e+15
+	2 : 1.92666259177e+55
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 3.98300083195e+13
+	2 : 3327193980503546452539026687119790775560222411902156800000
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 1.74001263252e+18
+	2 : 776099942234293137155477705839424466178853272499755199496192000000
+
+share - correct sense: 1 - predicted sense: 2
+False
+	1 : 4.96581921906e+12
+	2 : 5.37497056556e+44
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 1.31419155521e+15
+	2 : 41699850626383831716818473637967510829541936332800
+
+share - correct sense: 2 - predicted sense: 2
+True
+	1 : 3.85967857486e+13
+	2 : 5.96114052539e+53
+
+policy - correct sense: 1 - predicted sense: 1
+True
+	1 : 2.7099404994e+27
+	2 : 7444963737.22
+
+policy - correct sense: 1 - predicted sense: 1
+True
+	1 : 2.09777203552e+27
+	2 : 3.59501422813e+13
+
+policy - correct sense: 1 - predicted sense: 1
+True
+	1 : 6.00058045578e+33
+	2 : 1.25825252232e+13
+
+policy - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.68614951855e+30
+	2 : 1.78656357561e+16
+
+policy - correct sense: 1 - predicted sense: 1
+True
+	1 : 9.56119514589e+22
+	2 : 3.84776743698e+12
+
+policy - correct sense: 1 - predicted sense: 1
+True
+	1 : 6.29366544346e+31
+	2 : 1.13389158684e+15
+
+policy - correct sense: 1 - predicted sense: 1
+True
+	1 : 5.09256484903e+30
+	2 : 4.97479350738e+16
+
+kill - correct sense: 1 - predicted sense: 1
+True
+	1 : 2.51851549217e+12
+	9 : 2.84302880299e-06
+	3 : 0.000105297363074
+	4 : 3.07047110723e-05
+
+kill - correct sense: 1 - predicted sense: 1
+True
+	1 : 3.12957638897e+15
+	9 : 3.65615844006e-05
+	3 : 0.000677066377789
+	4 : 0.00197432555763
+
+kill - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.62922136574e+15
+	9 : 7.89730223054e-06
+	3 : 0.00116997070082
+	4 : 0.00191904444202
+
+receive - correct sense: 1 - predicted sense: 1
+True
+	1 : 2.61196651384e+20
+	2 : 150459.195064
+
+receive - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.19931017059e+12
+	2 : 70.5277476864
+
+receive - correct sense: 2 - predicted sense: 1
+False
+	1 : 3566015162.55
+	2 : 0.118459533458
+
+receive - correct sense: 1 - predicted sense: 1
+True
+	1 : 4.09601906446e+12
+	2 : 27.4211883005
+
+receive - correct sense: 1 - predicted sense: 1
+True
+	1 : 9.01486722765e+24
+	2 : 1404285.8206
+
+receive - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.15442537047e+13
+	2 : 0.000355378600374
+
+receive - correct sense: 1 - predicted sense: 1
+True
+	1 : 3.06319635669e+23
+	2 : 3.79070507066
+
+receive - correct sense: 1 - predicted sense: 1
+True
+	1 : 8.66064371416e+23
+	2 : 9478929.28905
+
+receive - correct sense: 1 - predicted sense: 1
+True
+	1 : 7.52643445489e+17
+	2 : 0.0383808888404
+
+allow - correct sense: 1 - predicted sense: 1
+True
+	1 : 6.30698993831e+17
+	2 : 142.183939336
+
+allow - correct sense: 1 - predicted sense: 1
+True
+	1 : 2.56805916012e+17
+	2 : 0.767793272413
+
+allow - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.94708009425e+12
+	2 : 43.53564672
+
+allow - correct sense: 1 - predicted sense: 1
+True
+	1 : 2.01675545312e+11
+	2 : 4.60675963448
+
+allow - correct sense: 1 - predicted sense: 1
+True
+	1 : 2.20542437993e+12
+	2 : 3.79157171562
+
+allow - correct sense: 1 - predicted sense: 1
+True
+	1 : 3.75447245631e+12
+	2 : 1.97477693522
+
+allow - correct sense: 1 - predicted sense: 1
+True
+	1 : 45982345712.1
+	2 : 25.0765325107
+
+work - correct sense: 1 - predicted sense: 1
+True
+	1 : 8.07889191626e+19
+	3 : 0.126949945836
+	2 : 1.46505221617e+12
+	5 : 0.00902755170386
+	4 : 0.649983722678
+	9 : 658.108519211
+	8 : 149514.311319
+
+work - correct sense: 8 - predicted sense: 1
+False
+	1 : 3.41172457153e+20
+	3 : 0.0304679870005
+	2 : 4.21070400116e+14
+	5 : 0.00376147987661
+	4 : 0.0108330620446
+	9 : 3.73232840756
+	8 : 25624.5592316
+
+work - correct sense: 9 - predicted sense: 1
+False
+	1 : 3.49446538539e+20
+	3 : 0.00457019805008
+	2 : 3.56155489927e+11
+	5 : 0.000292492675205
+	4 : 0.0270826551116
+	9 : 60.935974001
+	8 : 638950.048373
+
+work - correct sense: 1 - predicted sense: 1
+True
+	1 : 2.22740112415e+24
+	3 : 4.26454320449e-05
+	2 : 1.60450136581e+12
+	5 : 3.15892089221e-05
+	4 : 0.00379070507066
+	9 : 1.02829456127
+	8 : 8739.42114164
+
+work - correct sense: 8 - predicted sense: 1
+False
+	1 : 5.65023993862e+24
+	3 : 0.0060935974001
+	2 : 5.65486569355e+13
+	5 : 0.000812479653347
+	4 : 0.116997070082
+	9 : 614.234617931
+	8 : 2484805.74367
+
+work - correct sense: 8 - predicted sense: 1
+False
+	1 : 5.37058121888e+22
+	3 : 0.00548423766009
+	2 : 9.62830493629e+13
+	5 : 0.000677066377789
+	4 : 0.519986978142
+	9 : 32.9054259606
+	8 : 372720.861551
+
+work - correct sense: 1 - predicted sense: 1
+True
+	1 : 89120454353.3
+	3 : 0.00282110990746
+	2 : 2522805.62688
+	5 : 0.00156728328192
+	4 : 0.017414258688
+	9 : 0.06530347008
+	8 : 50.79158784
+
+work - correct sense: 1 - predicted sense: 1
+True
+	1 : 4.89966433943e+17
+	3 : 0.00101559956668
+	2 : 7.00154245628e+11
+	5 : 0.000564221981491
+	4 : 0.0376147987661
+	9 : 1.632586752
+	8 : 20739.898368
+
+buy - correct sense: 6 - predicted sense: 1
+False
+	1 : 7.29857759079e+14
+	3 : 0.00270826551116
+	2 : 3.65615844006e-05
+	4 : 0.00470184984576
+	6 : 407297.742889
+
+buy - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.67952528001e+24
+	3 : 0.0155996093443
+	2 : 7.89730223054e-06
+	4 : 0.00219369506404
+	6 : 485363143.609
+
+buy - correct sense: 1 - predicted sense: 1
+True
+	1 : 3.13566193844e+18
+	3 : 0.00731231688013
+	2 : 1.31621703842e-05
+	4 : 0.00109684753202
+	6 : 152339.935003
+
+buy - correct sense: 6 - predicted sense: 1
+False
+	1 : 4.56074027897e+17
+	3 : 0.000526486815369
+	2 : 7.89730223054e-06
+	4 : 0.000473838133832
+	6 : 19414742.9698
+
+buy - correct sense: 1 - predicted sense: 1
+True
+	1 : 2.49877728659e+18
+	3 : 0.0311992186885
+	2 : 6.0935974001e-05
+	4 : 0.00658108519211
+	6 : 2290526.13522
+
+buy - correct sense: 1 - predicted sense: 1
+True
+	1 : 2.3578569752e+17
+	3 : 0.161243136
+	2 : 0.00078364164096
+	4 : 0.10077696
+	6 : 10581580.8
+
+buy - correct sense: 1 - predicted sense: 1
+True
+	1 : 71328942.9001
+	3 : 3.41163456359e-05
+	2 : 1.7058172818e-06
+	4 : 1.53523555362e-05
+	6 : 0.568605760599
+
+buy - correct sense: 1 - predicted sense: 1
+True
+	1 : 3.66035140047e+23
+	3 : 0.000631784178443
+	2 : 1.31621703842e-05
+	4 : 0.0164527129803
+	6 : 10159550.2653
+
+buy - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.21106001381e+22
+	3 : 0.00421189452295
+	2 : 1.7058172818e-06
+	4 : 0.00197432555763
+	6 : 332710418.046
+
+cause - correct sense: 1 - predicted sense: 1
+True
+	1 : 3.17584222677e+11
+
+cause - correct sense: 1 - predicted sense: 1
+True
+	1 : 2.01010648877e+12
+
+cause - correct sense: 1 - predicted sense: 1
+True
+	1 : 5.38930802118e+11
+
+cause - correct sense: 1 - predicted sense: 1
+True
+	1 : 3.75326808618e+12
+
+cause - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.01160679875e+12
+
+cause - correct sense: 1 - predicted sense: 1
+True
+	1 : 5.48422734053e+13
+
+cause - correct sense: 1 - predicted sense: 1
+True
+	1 : 3.09773266687e+11
+
+cause - correct sense: 1 - predicted sense: 1
+True
+	1 : 2.363168795e+16
+
+cause - correct sense: 1 - predicted sense: 1
+True
+	1 : 3.1849160617e+12
+
+power - correct sense: 2 - predicted sense: 1
+False
+	1 : 2.35549574133e+18
+	3 : 5.85976876506e+13
+	2 : 390079.394611
+
+power - correct sense: 1 - predicted sense: 1
+True
+	1 : 4.323748704e+19
+	3 : 1.66854432632e+15
+	2 : 3475.60740599
+
+power - correct sense: 1 - predicted sense: 1
+True
+	1 : 2.77145751094e+13
+	3 : 81642895.4446
+	2 : 6.79294348662
+
+power - correct sense: 3 - predicted sense: 3
+True
+	1 : 3.21815158677e+22
+	3 : 3.19402401216e+24
+	2 : 4170.72888718
+
+power - correct sense: 1 - predicted sense: 1
+True
+	1 : 2.94912797487e+22
+	3 : 5.82495807988e+16
+	2 : 278628.139008
+
+power - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.33869278972e+16
+	3 : 2.09405139078e+14
+	2 : 259.993489071
+
+power - correct sense: 1 - predicted sense: 1
+True
+	1 : 6.42418740537e+27
+	3 : 2.20628371265e+18
+	2 : 67029.5714012
+
+power - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.84015266044e+20
+	3 : 1.51657184611e+11
+	2 : 0.561585936394
+
+power - correct sense: 2 - predicted sense: 1
+False
+	1 : 3.77649558642e+20
+	3 : 6.37020158431e+14
+	2 : 22568.8792596
+
+space - correct sense: 2 - predicted sense: 2
+True
+	1 : 11268113.7623
+	2 : 32298573873.8
+	5 : 0.000487487792008
+	4 : 3.65615844006e-05
+	6 : 0.00225688792596
+
+space - correct sense: 2 - predicted sense: 2
+True
+	1 : 65354.5633478
+	2 : 181540453.744
+	5 : 1.89535253533e-05
+	4 : 2.84302880299e-06
+	6 : 0.000210594726148
+
+prepare - correct sense: 2 - predicted sense: 2
+True
+	1 : 8243152.22016
+	2 : 7167708875.98
+
+prepare - correct sense: 2 - predicted sense: 2
+True
+	1 : 154.472694093
+	2 : 1474.50011163
+
+prepare - correct sense: 1 - predicted sense: 1
+True
+	1 : 469311.94974
+	2 : 4710.20868993
+
+explain - correct sense: 1 - predicted sense: 1
+True
+	1 : 677507176.212
+	2 : 33.8533188895
+
+explain - correct sense: 1 - predicted sense: 1
+True
+	1 : 16048353893.5
+	2 : 4.26551818007
+
+explain - correct sense: 1 - predicted sense: 1
+True
+	1 : 2.21175016745e+13
+	2 : 5.48423766009
+
+people - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.05918025895e+40
+	2 : 7.99654051824e+15
+	5 : 313.515586235
+	4 : 3.80849837507
+
+people - correct sense: 1 - predicted sense: 1
+True
+	1 : 7.83426144706e+36
+	2 : 8533857470.05
+	5 : 0.691171927327
+	4 : 0.423166486118
+
+people - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.07495361371e+36
+	2 : 1.43581203727e+13
+	5 : 2.07351578198
+	4 : 0.423166486118
+
+people - correct sense: 2 - predicted sense: 1
+False
+	1 : 5.14660582883e+44
+	2 : 3.14009543773e+18
+	5 : 2.48821893838
+	4 : 0.0548423766009
+
+people - correct sense: 1 - predicted sense: 1
+True
+	1 : 1217328752938717133703392209932672000
+	2 : 1.33408950979e+16
+	5 : 106.662334464
+	4 : 244.8880128
+
+people - correct sense: 1 - predicted sense: 1
+True
+	1 : 6.46377830842e+34
+	2 : 1.15467401599e+11
+	5 : 0.0789910774088
+	4 : 0.0282110990746
+
+people - correct sense: 1 - predicted sense: 1
+True
+	1 : 8.96602614122e+42
+	2 : 1.00320235592e+14
+	5 : 0.355459848339
+	4 : 1.41055495373
+
+people - correct sense: 1 - predicted sense: 1
+True
+	1 : 7.56410895966e+24
+	2 : 1059324321.37
+	5 : 0.38398440407
+	4 : 0.235092492288
+
+people - correct sense: 1 - predicted sense: 1
+True
+	1 : 3.39809855421e+32
+	2 : 4574768248.13
+	5 : 0.0255931090804
+	4 : 0.0731231688013
+
+people - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.10087979253e+35
+	2 : 6.4098751664e+13
+	5 : 2.48821893838
+	4 : 5.64221981491
+
+people - correct sense: 2 - predicted sense: 1
+False
+	1 : 7.03853426603e+38
+	2 : 7.32499188056e+15
+	5 : 23.0390642442
+	4 : 2.35092492288
+
+people - correct sense: 1 - predicted sense: 1
+True
+	1 : 6.89990506949e+33
+	2 : 66922324.0869
+	5 : 0.00110562231228
+	4 : 0.00677066377789
+
+people - correct sense: 1 - predicted sense: 1
+True
+	1 : 4.30638177079e+35
+	2 : 1.93346305767e+11
+	5 : 0.99528757535
+	4 : 0.182807922003
+
+people - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.58456009749e+38
+	2 : 2.18929286308e+15
+	5 : 414.703156396
+	4 : 195.91041024
+
+people - correct sense: 1 - predicted sense: 1
+True
+	1 : 6.7905966369e+40
+	2 : 6.39161341379e+12
+	5 : 1.38234385465
+	4 : 0.0274211883005
+
+people - correct sense: 1 - predicted sense: 1
+True
+	1 : 2549285678016908016213829982212508636160000
+	2 : 8.70587551737e+17
+	5 : 12.1899810816
+	4 : 3.4828517376
+
+people - correct sense: 1 - predicted sense: 1
+True
+	1 : 4.08749180046e+37
+	2 : 9.81379954884e+11
+	5 : 3.58303527126
+	4 : 2.53899891671
+
+people - correct sense: 1 - predicted sense: 1
+True
+	1 : 7.61080953716e+37
+	2 : 3297260888.06
+	5 : 0.0119434509042
+	4 : 0.235092492288
+
+people - correct sense: 1 - predicted sense: 1
+True
+	1 : 3.87222910615e+26
+	2 : 2071567.56179
+	5 : 0.0059717254521
+	4 : 0.0101559956668
+
+people - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.436069004e+35
+	2 : 1.40475995604e+13
+	5 : 53.7578165699
+	4 : 4.70184984576
+
+people - correct sense: 1 - predicted sense: 1
+True
+	1 : 7.26497558293e+30
+	2 : 69663837.1968
+	5 : 0.000255931090804
+	4 : 0.000219369506404
+
+people - correct sense: 1 - predicted sense: 1
+True
+	1 : 7.28253241541e+36
+	2 : 1.53567789237e+13
+	5 : 13.0050909846
+	4 : 0.685529707512
+
+people - correct sense: 1 - predicted sense: 1
+True
+	1 : 3.90967408053e+40
+	2 : 2.88444382488e+13
+	5 : 0.644946348827
+	4 : 0.164527129803
+
+lead - correct sense: 1 - predicted sense: 1
+True
+	1 : 658917237.385
+	3 : 86.0125065118
+	2 : 1861932538.92
+	5 : 539.847591891
+	4 : 12090023.2367
+	6 : 0.00389990233607
+
+lead - correct sense: 4 - predicted sense: 1
+False
+	1 : 9.85559970447e+11
+	3 : 619.290046885
+	2 : 48135187.796
+	5 : 23181.8611655
+	4 : 29022689.5258
+	6 : 0.00487487792008
+
+lead - correct sense: 6 - predicted sense: 1
+False
+	1 : 29519492234.8
+	3 : 20.1223260834
+	2 : 498700.011225
+	5 : 29046.1476072
+	4 : 1036331.33917
+	6 : 0.0389990233607
+
+lead - correct sense: 1 - predicted sense: 1
+True
+	1 : 8.75526273395e+12
+	3 : 2396.0626814
+	2 : 395660664.521
+	5 : 153992983.509
+	4 : 267307686.691
+	6 : 0.240734712103
+
+lead - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.08290200791e+13
+	3 : 76.6740058048
+	2 : 1.22436169984e+12
+	5 : 464.738361715
+	4 : 79736020.6971
+	6 : 0.00467988280328
+
+lead - correct sense: 1 - predicted sense: 1
+True
+	1 : 3153791905.43
+	3 : 3.58303527126
+	2 : 416348803.842
+	5 : 38.6181735232
+	4 : 169684.536656
+	6 : 0.00701982420492
+
+lead - correct sense: 3 - predicted sense: 1
+False
+	1 : 8.76728919375e+12
+	3 : 1437637.60884
+	2 : 12632433650.2
+	5 : 24791913.8667
+	4 : 442876640.672
+	6 : 0.519986978142
+
+source - correct sense: 6 - predicted sense: 6
+True
+	1 : 0.00324991861339
+	3 : 574630629.028
+	2 : 102981.796062
+	4 : 653.0347008
+	6 : 4788069775.44
+
+source - correct sense: 2 - predicted sense: 2
+True
+	1 : 18.6624
+	3 : 1501.46239939
+	2 : 1.0923118144e+36
+	4 : 4.38739012808
+	6 : 4598973.37113
+
+source - correct sense: 2 - predicted sense: 2
+True
+	1 : 0.0649983722678
+	3 : 22567311976.4
+	2 : 618536928869338152960000000000000
+	4 : 7222.04136309
+	6 : 2.22196363017e+12
+
+source - correct sense: 3 - predicted sense: 3
+True
+	1 : 0.000210594726148
+	3 : 3604333606.21
+	2 : 1.85367232911
+	4 : 169.266594447
+	6 : 705152.094201
+
+source - correct sense: 2 - predicted sense: 2
+True
+	1 : 0.0451377585193
+	3 : 410314763.207
+	2 : 120150918583787520000000000000
+	4 : 401.224520172
+	6 : 6005307108.56
+
+source - correct sense: 3 - predicted sense: 3
+True
+	1 : 0.00487487792008
+	3 : 57819518266.2
+	2 : 8.23854368494
+	4 : 12.3395347352
+	6 : 41109689.9912
+
+source - correct sense: 3 - predicted sense: 3
+True
+	1 : 0.00677066377789
+	3 : 8.31781637407e+16
+	2 : 1848391.21137
+	4 : 634.749729178
+	6 : 6.89896150996e+11
+
+replace - correct sense: 1 - predicted sense: 1
+True
+	1 : 499466.738074
+	2 : 0.000243743896004
+
+replace - correct sense: 1 - predicted sense: 1
+True
+	1 : 33973589.7109
+	2 : 0.000105297363074
+
+replace - correct sense: 1 - predicted sense: 1
+True
+	1 : 12516324289.4
+	2 : 8.77478025615e-05
+
+set - correct sense: 3 - predicted sense: 4
+False
+	1 : 3.01832015976e+11
+	3 : 9.15048533708e+11
+	2 : 0.000292492675205
+	5 : 2246.85731296
+	4 : 6.10833703224e+14
+	7 : 0.0329054259606
+	6 : 5.65492261532e+11
+	9 : 1.31621703842e-05
+	8 : 0.00194995116803
+
+set - correct sense: 5 - predicted sense: 4
+False
+	1 : 1041826.48512
+	3 : 73130751.9447
+	2 : 0.000487487792008
+	5 : 2.52771447708
+	4 : 1.35001017363e+11
+	7 : 0.000658108519211
+	6 : 17436028.8333
+	9 : 4.73838133832e-06
+	8 : 0.000210594726148
+
+set - correct sense: 4 - predicted sense: 4
+True
+	1 : 5958158.00316
+	3 : 158976857.274
+	2 : 0.000487487792008
+	5 : 0.0270826551116
+	4 : 8585229533.18
+	7 : 0.00274211883005
+	6 : 2532807.18029
+	9 : 1.31621703842e-05
+	8 : 0.000812479653347
+
+set - correct sense: 4 - predicted sense: 4
+True
+	1 : 35919810.9204
+	3 : 2383649217.33
+	2 : 0.0052242776064
+	5 : 320.979616137
+	4 : 7221539832.44
+	7 : 0.211583243059
+	6 : 1234017607.68
+	9 : 0.000169266594447
+	8 : 0.00376147987661
+
+set - correct sense: 1 - predicted sense: 4
+False
+	1 : 1018093.87922
+	3 : 326668616.224
+	2 : 3.15892089221e-05
+	5 : 0.917257029443
+	4 : 325025564.199
+	7 : 5.68605760599e-05
+	6 : 9763.25925201
+	9 : 4.73838133832e-06
+	8 : 7.58141014131e-05
+
+set - correct sense: 5 - predicted sense: 3
+False
+	1 : 4216916725.5
+	3 : 1.11838180927e+11
+	2 : 0.000210594726148
+	5 : 64.1959232274
+	4 : 3.50277364954e+11
+	7 : 0.000710757200748
+	6 : 2526053027.81
+	9 : 7.89730223054e-06
+	8 : 0.00116997070082
+
+set - correct sense: 3 - predicted sense: 3
+True
+	1 : 503.568118481
+	3 : 97768.3849528
+	2 : 0.000146246337603
+	5 : 0.00467988280328
+	4 : 6394.51579023
+	7 : 0.00121871948002
+	6 : 136.970528227
+	9 : 2.19369506404e-05
+	8 : 0.000146246337603
+
+set - correct sense: 4 - predicted sense: 4
+True
+	1 : 26872508.5449
+	3 : 2153547612.88
+	2 : 0.0018807399383
+	5 : 26.7483013448
+	4 : 9000067824.23
+	7 : 0.0507799783342
+	6 : 417946955.51
+	9 : 0.000282110990746
+	8 : 0.0417942208512
+
+raise - correct sense: 2 - predicted sense: 1
+False
+	1 : 352112131.249
+	3 : 0.406239826674
+	2 : 141242.176226
+	5 : 47.7896018323
+	4 : 26733.5427605
+	7 : 0.000812479653347
+	6 : 4165545.09773
+
+raise - correct sense: 5 - predicted sense: 1
+False
+	1 : 65266189.635
+	3 : 0.0157946044611
+	2 : 3753150.45557
+	5 : 794.42454994
+	4 : 369.564495122
+	7 : 0.000175495605123
+	6 : 189578.585781
+
+raise - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.15262331289e+12
+	3 : 0.0219369506404
+	2 : 201061.631548
+	5 : 3.57491047473
+	4 : 7685.00242556
+	7 : 5.26486815369e-05
+	6 : 1151953212.21
+
+raise - correct sense: 4 - predicted sense: 1
+False
+	1 : 4.4347507776e+12
+	3 : 0.0812479653347
+	2 : 471.238198941
+	5 : 0.413762786427
+	4 : 3595905105.0
+	7 : 8.77478025615e-05
+	6 : 528958.107648
+
+raise - correct sense: 3 - predicted sense: 1
+False
+	1 : 40332844.1249
+	3 : 1.21871948002
+	2 : 214093.403964
+	5 : 78.648030444
+	4 : 27089.9899973
+	7 : 0.00270826551116
+	6 : 22157467.3981
+
+raise - correct sense: 6 - predicted sense: 6
+True
+	1 : 435502050.403
+	3 : 0.0438739012808
+	2 : 1158.11499772
+	5 : 5.36236571209
+	4 : 494.952448824
+	7 : 0.000292492675205
+	6 : 497643787.675
+
+exist - correct sense: 1 - predicted sense: 1
+True
+	1 : 2.01191393832e+13
+	2 : 0.00112844396298
+
+exist - correct sense: 1 - predicted sense: 1
+True
+	1 : 94583417654.5
+	2 : 0.000146246337603
+
+exist - correct sense: 1 - predicted sense: 1
+True
+	1 : 1116991669.25
+	2 : 0.000146246337603
+
+exist - correct sense: 1 - predicted sense: 1
+True
+	1 : 6213243820.36
+	2 : 5.26486815369e-05
+
+contribute - correct sense: 1 - predicted sense: 2
+False
+	1 : 0.0159262261649
+	2 : 3972.1227497
+
+contribute - correct sense: 1 - predicted sense: 2
+False
+	1 : 3.9324015222
+	2 : 14756971.8067
+
+contribute - correct sense: 1 - predicted sense: 1
+True
+	1 : 2.3944605696
+	2 : 2.63303591363
+
+announce - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.07014381118e+15
+	2 : 1.31621703842e-05
+
+announce - correct sense: 1 - predicted sense: 1
+True
+	1 : 2.15682745378e+16
+	2 : 0.000282110990746
+
+announce - correct sense: 1 - predicted sense: 1
+True
+	1 : 5.83371646304e+14
+	2 : 1.31621703842e-05
+
+announce - correct sense: 1 - predicted sense: 1
+True
+	1 : 6.41669347559e+16
+	2 : 1.31621703842e-05
+
+promise - correct sense: 2 - predicted sense: 1
+False
+	1 : 229672060.472
+	2 : 28.2110990746
+
+purchase - correct sense: 1 - predicted sense: 1
+True
+	1 : 72530387.4355
+
+purchase - correct sense: 1 - predicted sense: 1
+True
+	1 : 68769552.5315
+
+purchase - correct sense: 1 - predicted sense: 1
+True
+	1 : 488561.78855
+
+point - correct sense: 14 - predicted sense: 14
+True
+	14 : 2.65296027787e+26
+	1 : 0.141055495373
+	3 : 4196.40098734
+	2 : 1.41055495373
+	5 : 1.06771054328e+13
+	4 : 36608036.9357
+	7 : 0.0423166486118
+	6 : 0.00225688792596
+	8 : 0.000282110990746
+
+point - correct sense: 14 - predicted sense: 14
+True
+	14 : 4.22858452125e+34
+	1 : 1.21871948002
+	3 : 20708827.4607
+	2 : 6.0935974001
+	5 : 1.02311162357e+17
+	4 : 4.02091265441e+11
+	7 : 0.109684753202
+	6 : 0.000487487792008
+	8 : 1.31621703842e-05
+
+point - correct sense: 14 - predicted sense: 14
+True
+	14 : 9.34670259267e+43
+	1 : 0.0137105941502
+	3 : 68248.2908812
+	2 : 0.219369506404
+	5 : 5.37488956686e+17
+	4 : 5831253527.89
+	7 : 0.00365615844006
+	6 : 3.15892089221e-05
+	8 : 1.31621703842e-05
+
+point - correct sense: 14 - predicted sense: 14
+True
+	14 : 1.26459737985e+31
+	1 : 0.0304679870005
+	3 : 804.354856814
+	2 : 1.69266594447
+	5 : 1.16202522757e+13
+	4 : 3256327.06059
+	7 : 0.00131621703842
+	6 : 5.26486815369e-05
+	8 : 1.31621703842e-05
+
+point - correct sense: 14 - predicted sense: 14
+True
+	14 : 1.7011925901e+42
+	1 : 0.274211883005
+	3 : 191114.713979
+	2 : 22.8509902504
+	5 : 1.1216089986e+17
+	4 : 8559052283.55
+	7 : 0.060935974001
+	6 : 0.000210594726148
+	8 : 6.0935974001e-05
+
+point - correct sense: 14 - predicted sense: 14
+True
+	14 : 1.42382609452e+39
+	1 : 0.0292492675205
+	3 : 5317.67933116
+	2 : 0.338533188895
+	5 : 2.76160486309e+18
+	4 : 1523650115.35
+	7 : 0.000710757200748
+	6 : 8.77478025615e-05
+	8 : 7.89730223054e-06
+
+point - correct sense: 14 - predicted sense: 14
+True
+	14 : 3.73235215856e+36
+	1 : 0.00152339935003
+	3 : 14.6246337603
+	2 : 0.000789730223054
+	5 : 1.87825829035e+13
+	4 : 1077438.29586
+	7 : 0.000197432555763
+	6 : 1.57946044611e-05
+	8 : 4.73838133832e-06
+
+point - correct sense: 14 - predicted sense: 14
+True
+	14 : 5.02112462099e+34
+	1 : 0.00457019805008
+	3 : 1.64527129803
+	2 : 0.00406239826674
+	5 : 2201618336.75
+	4 : 335901.700915
+	7 : 0.000304679870005
+	6 : 0.000121871948002
+	8 : 7.89730223054e-06
+
+point - correct sense: 14 - predicted sense: 14
+True
+	14 : 3.68626609046e+33
+	1 : 0.000329054259606
+	3 : 0.438739012808
+	2 : 0.203119913337
+	5 : 32812893555.6
+	4 : 2367099.28635
+	7 : 0.00109684753202
+	6 : 8.77478025615e-05
+	8 : 2.19369506404e-05
+
+point - correct sense: 4 - predicted sense: 14
+False
+	14 : 2.4283027857e+29
+	1 : 0.0822635649014
+	3 : 4113.17824507
+	2 : 0.0789730223054
+	5 : 1.24413267891e+16
+	4 : 17665574.3037
+	7 : 0.00710757200748
+	6 : 0.000487487792008
+	8 : 7.89730223054e-06
+
+point - correct sense: 14 - predicted sense: 14
+True
+	14 : 2.87740252016e+20
+	1 : 0.146246337603
+	3 : 11585.4520569
+	2 : 1.09684753202
+	5 : 1.16811559194e+13
+	4 : 1759149.28631
+	7 : 0.0457019805008
+	6 : 0.00324991861339
+	8 : 3.65615844006e-05
+
+point - correct sense: 14 - predicted sense: 14
+True
+	14 : 1.0509766405e+37
+	1 : 0.0877478025615
+	3 : 2413.06457044
+	2 : 0.131621703842
+	5 : 7.24350351784e+16
+	4 : 8032849.2476
+	7 : 0.00236919066916
+	6 : 0.000292492675205
+	8 : 7.89730223054e-06
+
+point - correct sense: 14 - predicted sense: 14
+True
+	14 : 794118106283230829155737273098664148992000
+	1 : 0.00914039610016
+	3 : 0.137105941502
+	2 : 0.00658108519211
+	5 : 7.43778975821e+15
+	4 : 3788224.7381
+	7 : 0.000197432555763
+	6 : 5.26486815369e-05
+	8 : 2.84302880299e-06
+
+point - correct sense: 14 - predicted sense: 14
+True
+	14 : 4.60144073555e+38
+	1 : 0.0365615844006
+	3 : 10617.4841099
+	2 : 0.059229766729
+	5 : 4.01919794552e+19
+	4 : 15182085.078
+	7 : 0.00109684753202
+	6 : 8.77478025615e-05
+	8 : 2.19369506404e-05
+
+point - correct sense: 14 - predicted sense: 14
+True
+	14 : 5.0189067135e+34
+	1 : 0.564221981491
+	3 : 15150.206536
+	2 : 5.07799783342
+	5 : 1.46661524148e+16
+	4 : 645765771.545
+	7 : 0.126949945836
+	6 : 0.000974975584017
+	8 : 2.19369506404e-05
+
+point - correct sense: 14 - predicted sense: 14
+True
+	14 : 2183685156574967775850953112446566400000
+	1 : 0.438739012808
+	3 : 6153.31465463
+	2 : 5.48423766009
+	5 : 5.16880024342e+20
+	4 : 594378630.802
+	7 : 0.0548423766009
+	6 : 0.00162495930669
+	8 : 2.19369506404e-05
+
+point - correct sense: 4 - predicted sense: 14
+False
+	14 : 6.21063127371e+22
+	1 : 3.265173504
+	3 : 23509.2492288
+	2 : 1.46246337603
+	5 : 2.15505471593e+11
+	4 : 140135565.39
+	7 : 0.00822635649014
+	6 : 0.000812479653347
+	8 : 0.000169266594447
+
+point - correct sense: 14 - predicted sense: 14
+True
+	14 : 3.18716960949e+31
+	1 : 0.00157946044611
+	3 : 1.06613580112
+	2 : 0.000568605760599
+	5 : 1.68540141232e+13
+	4 : 903.695540355
+	7 : 8.52908640898e-05
+	6 : 0.000105297363074
+	8 : 4.73838133832e-06
+
+point - correct sense: 5 - predicted sense: 14
+False
+	14 : 1.03342826765e+27
+	1 : 41.7942208512
+	3 : 2777537.86494
+	2 : 470.184984576
+	5 : 2.22978292633e+19
+	4 : 1.38378379617e+13
+	7 : 0.423166486118
+	6 : 0.557256278016
+	8 : 0.000169266594447
+
+point - correct sense: 14 - predicted sense: 14
+True
+	14 : 3.13040961799e+28
+	1 : 0.00329054259606
+	3 : 0.639827727011
+	2 : 0.00658108519211
+	5 : 1.13413470037e+13
+	4 : 1927883.81942
+	7 : 0.000236919066916
+	6 : 5.26486815369e-05
+	8 : 1.31621703842e-05
+
+point - correct sense: 5 - predicted sense: 14
+False
+	14 : 1.14818120208e+31
+	1 : 20.3119913337
+	3 : 1812479.61069
+	2 : 16.4527129803
+	5 : 2.27931563396e+18
+	4 : 5.72495463545e+11
+	7 : 0.228509902504
+	6 : 0.0150459195064
+	8 : 6.0935974001e-05
+
+point - correct sense: 14 - predicted sense: 14
+True
+	14 : 3.09707815038e+41
+	1 : 0.00296148833645
+	3 : 14.215144015
+	2 : 0.0658108519211
+	5 : 4.52328368744e+12
+	4 : 108443.464843
+	7 : 0.000394865111527
+	6 : 0.000105297363074
+	8 : 4.73838133832e-06
+
+point - correct sense: 14 - predicted sense: 14
+True
+	14 : 1.00275357902e+28
+	1 : 0.564221981491
+	3 : 9535.3514872
+	2 : 0.274211883005
+	5 : 8.26736155263e+14
+	4 : 152289.433652
+	7 : 0.0457019805008
+	6 : 0.00752295975322
+	8 : 0.000169266594447
+
+point - correct sense: 14 - predicted sense: 14
+True
+	14 : 1.50555280841e+36
+	1 : 0.0219369506404
+	3 : 402.177428407
+	2 : 1.56728328192
+	5 : 2.394762937e+14
+	4 : 15149435.4326
+	7 : 0.00507799783342
+	6 : 8.77478025615e-05
+	8 : 1.31621703842e-05
+
+point - correct sense: 14 - predicted sense: 14
+True
+	14 : 7.74872321314e+35
+	1 : 0.00493581389409
+	3 : 21.9369506404
+	2 : 0.00568605760599
+	5 : 2.90538266422e+15
+	4 : 69403.8174993
+	7 : 0.000329054259606
+	6 : 8.77478025615e-05
+	8 : 7.89730223054e-06
+
+point - correct sense: 14 - predicted sense: 14
+True
+	14 : 1.87999630275e+33
+	1 : 3.65615844006
+	3 : 2145454.08462
+	2 : 9.14039610016
+	5 : 4.32843769256e+16
+	4 : 2507293235.65
+	7 : 1.52339935003
+	6 : 0.0208971104256
+	8 : 0.000101559956668
+
+point - correct sense: 14 - predicted sense: 14
+True
+	14 : 1.32493476899e+29
+	1 : 0.131621703842
+	3 : 44488.1358987
+	2 : 0.0426454320449
+	5 : 1.66002947687e+17
+	4 : 2360486221.61
+	7 : 0.00888446500935
+	6 : 0.00116997070082
+	8 : 6.0935974001e-05
+
+point - correct sense: 14 - predicted sense: 14
+True
+	14 : 3.44715565538e+40
+	1 : 0.00164527129803
+	3 : 117.301749952
+	2 : 0.197432555763
+	5 : 1.12287133055e+13
+	4 : 714165.282067
+	7 : 0.00131621703842
+	6 : 3.15892089221e-05
+	8 : 2.19369506404e-05
+
+point - correct sense: 14 - predicted sense: 14
+True
+	14 : 8.90857880822e+33
+	1 : 0.000197432555763
+	3 : 0.438739012808
+	2 : 0.0365615844006
+	5 : 28212143930.1
+	4 : 14202.5957181
+	7 : 0.00109684753202
+	6 : 3.15892089221e-05
+	8 : 2.19369506404e-05
+
+point - correct sense: 14 - predicted sense: 14
+True
+	14 : 1.19993667794e+32
+	1 : 0.0507799783342
+	3 : 370.186042056
+	2 : 0.203119913337
+	5 : 1.55602387118e+13
+	4 : 312388.581851
+	7 : 0.00274211883005
+	6 : 0.000175495605123
+	8 : 7.89730223054e-06
+
+join - correct sense: 4 - predicted sense: 2
+False
+	1 : 0.176319369216
+	3 : 31.032208982
+	2 : 52061377.536
+	4 : 26.0670555449
+
+join - correct sense: 3 - predicted sense: 2
+False
+	1 : 2.9386561536
+	3 : 1024.06289641
+	2 : 7676762485.95
+	4 : 46.9206999808
+
+join - correct sense: 3 - predicted sense: 2
+False
+	1 : 0.0352638738432
+	3 : 23.705159639
+	2 : 13883.0340096
+	4 : 0.651676388622
+
+management - correct sense: 2 - predicted sense: 2
+True
+	1 : 4.9107446005e+17
+	2 : 9.50589266674e+23
+
+management - correct sense: 2 - predicted sense: 2
+True
+	1 : 5.44958495138e+17
+	2 : 5.37117121885e+22
+
+management - correct sense: 2 - predicted sense: 2
+True
+	1 : 8.4680621201e+15
+	2 : 4.12396890034e+20
+
+management - correct sense: 1 - predicted sense: 2
+False
+	1 : 2.34346611046e+22
+	2 : 2.63012698276e+27
+
+management - correct sense: 2 - predicted sense: 2
+True
+	1 : 4.41617833756e+24
+	2 : 1.74624270144e+31
+
+management - correct sense: 2 - predicted sense: 2
+True
+	1 : 3.56403943423e+23
+	2 : 2.31059510766e+30
+
+management - correct sense: 1 - predicted sense: 2
+False
+	1 : 6.16352697388e+16
+	2 : 6.07882222857e+18
+
+management - correct sense: 2 - predicted sense: 2
+True
+	1 : 3.72103398827e+17
+	2 : 6.817140187e+23
+
+management - correct sense: 1 - predicted sense: 2
+False
+	1 : 1.3737097944e+22
+	2 : 47886108273265449369600000000
+
+state - correct sense: 2 - predicted sense: 2
+True
+	1 : 1.32715412164e+13
+	3 : 8478.37564187
+	2 : 9.26339524529e+33
+
+state - correct sense: 2 - predicted sense: 2
+True
+	1 : 4.50252315501e+18
+	3 : 1949178560.07
+	2 : 1.82858492207e+46
+
+state - correct sense: 2 - predicted sense: 2
+True
+	1 : 1.97832858403e+13
+	3 : 24916.0427027
+	2 : 6.80894134518e+31
+
+state - correct sense: 2 - predicted sense: 2
+True
+	1 : 243576668.16
+	3 : 80.621568
+	2 : 1.27956816756e+26
+
+state - correct sense: 2 - predicted sense: 2
+True
+	1 : 1.18191232819e+22
+	3 : 2638589127.23
+	2 : 1.04639748595e+41
+
+state - correct sense: 2 - predicted sense: 2
+True
+	1 : 8.71660270073e+14
+	3 : 16870.2372466
+	2 : 7.52373586838e+32
+
+state - correct sense: 2 - predicted sense: 2
+True
+	1 : 4.54026410034e+13
+	3 : 42391.8782094
+	2 : 9.45880851224e+33
+
+state - correct sense: 2 - predicted sense: 2
+True
+	1 : 4.39990154464e+19
+	3 : 20517669053.3
+	2 : 9.27867479425e+42
+
+state - correct sense: 2 - predicted sense: 2
+True
+	1 : 1.16485508819e+11
+	3 : 3139.42138053
+	2 : 8.23306948426e+31
+
+state - correct sense: 2 - predicted sense: 2
+True
+	1 : 7430621184.0
+	3 : 1730.28074324
+	2 : 3.91613754707e+35
+
+state - correct sense: 2 - predicted sense: 2
+True
+	1 : 2.17439616462e+16
+	3 : 2018660.86711
+	2 : 5.84777629879e+40
+
+state - correct sense: 2 - predicted sense: 2
+True
+	1 : 1.22511692475e+12
+	3 : 1110263.47691
+	2 : 702281835214375004280761352192000000
+
+state - correct sense: 2 - predicted sense: 2
+True
+	1 : 8.14936317649e+15
+	3 : 659496.505286
+	2 : 1.62549599876e+37
+
+state - correct sense: 2 - predicted sense: 2
+True
+	1 : 9.49391769971e+11
+	3 : 4505417.00776
+	2 : 1.97117302388e+31
+
+position - correct sense: 4 - predicted sense: 4
+True
+	1 : 0.00644946348827
+	3 : 959578593.055
+	2 : 50887076.0251
+	5 : 30546302.7917
+	4 : 3.80504338057e+18
+	7 : 7.89730223054e-06
+	6 : 0.0836041563294
+
+position - correct sense: 6 - predicted sense: 3
+False
+	1 : 0.537455290689
+	3 : 7.87154314616e+11
+	2 : 37511044612.8
+	5 : 2.81965589957e+11
+	4 : 1.66093163438e+12
+	7 : 7.89730223054e-06
+	6 : 20.6430015628
+
+position - correct sense: 4 - predicted sense: 4
+True
+	1 : 0.191095214467
+	3 : 2.07045677937e+15
+	2 : 1.14173274199e+14
+	5 : 2.05020380147e+12
+	4 : 9.47649002508e+20
+	7 : 1.02349036908e-06
+	6 : 0.644946348827
+
+position - correct sense: 2 - predicted sense: 2
+True
+	1 : 1.04505195412
+	3 : 1.10693575493e+14
+	2 : 2.79334333555e+16
+	5 : 17505313694.7
+	4 : 79301775646.6
+	7 : 1.31621703842e-05
+	6 : 0.331762525117
+
+position - correct sense: 2 - predicted sense: 2
+True
+	1 : 37.6304715989
+	3 : 9.550805684e+15
+	2 : 9.85491528783e+17
+	5 : 7.49777142546e+11
+	4 : 8.54166634742e+14
+	7 : 7.89730223054e-06
+	6 : 0.627031172471
+
+position - correct sense: 4 - predicted sense: 4
+True
+	1 : 6.63525050234
+	3 : 8.03460046899e+12
+	2 : 1.35818060327e+13
+	5 : 3086954587.45
+	4 : 2.07727981214e+19
+	7 : 4.73838133832e-06
+	6 : 1.24410946919
+
+position - correct sense: 4 - predicted sense: 4
+True
+	1 : 7.52437406965
+	3 : 5.45693582622e+19
+	2 : 1.2640792181e+16
+	5 : 3.0502369776e+17
+	4 : 5.17022350766e+21
+	7 : 2.84302880299e-06
+	6 : 2580.37519535
+
+position - correct sense: 2 - predicted sense: 2
+True
+	1 : 4.77738036168
+	3 : 43231002951.9
+	2 : 1.39749323935e+13
+	5 : 67368688.5598
+	4 : 25285937606.2
+	7 : 2.84302880299e-06
+	6 : 0.322473174414
+
+position - correct sense: 3 - predicted sense: 3
+True
+	1 : 1.62563637307
+	3 : 2.24820904642e+14
+	2 : 1.04020089244e+15
+	5 : 4.50097138333e+11
+	4 : 4.29939777169e+17
+	7 : 3.65615844006e-05
+	6 : 33.867424439
+
+see - correct sense: 2 - predicted sense: 3
+False
+	1 : 287780.293216
+	3 : 4.81307858584e+12
+	2 : 1.1098207368e+11
+	5 : 0.000105297363074
+	4 : 5.48423766009
+	6 : 0.000526486815369
+
+see - correct sense: 2 - predicted sense: 3
+False
+	1 : 9032234.74631
+	3 : 4.96775342948e+13
+	2 : 32913887200.6
+	5 : 0.000105297363074
+	4 : 6.77066377789
+	6 : 0.00877478025615
+
+see - correct sense: 2 - predicted sense: 3
+False
+	1 : 2.9374918018e+14
+	3 : 2.81666623148e+23
+	2 : 2.09989324217e+15
+	5 : 0.0361102068154
+	4 : 1057.9162153
+	6 : 0.324991861339
+
+see - correct sense: 2 - predicted sense: 3
+False
+	1 : 9.12874922627e+13
+	3 : 5.71660534047e+24
+	2 : 2.93834304953e+20
+	5 : 0.00116997070082
+	4 : 18807.399383
+	6 : 0.194995116803
+
+see - correct sense: 3 - predicted sense: 3
+True
+	1 : 349546801.973
+	3 : 1.40397354254e+16
+	2 : 7868551521.63
+	5 : 0.000175495605123
+	4 : 639.827727011
+	6 : 0.000877478025615
+
+see - correct sense: 2 - predicted sense: 3
+False
+	1 : 5100507504.2
+	3 : 1.19226472739e+20
+	2 : 4.19555465437e+13
+	5 : 0.00194995116803
+	4 : 1218.71948002
+	6 : 0.129996744536
+
+see - correct sense: 3 - predicted sense: 3
+True
+	1 : 947985496.574
+	3 : 1.4181352911e+17
+	2 : 2.2055296596e+12
+	5 : 0.00541653102232
+	4 : 541.653102232
+	6 : 0.0216661240893
+
+see - correct sense: 3 - predicted sense: 3
+True
+	1 : 3.75402256643e+11
+	3 : 8.7502035261e+20
+	2 : 1.27998450224e+14
+	5 : 0.000701982420492
+	4 : 210.594726148
+	6 : 0.0649983722678
+
+see - correct sense: 3 - predicted sense: 3
+True
+	1 : 3128761810.94
+	3 : 4.78000318123e+15
+	2 : 29269997454.0
+	5 : 0.000292492675205
+	4 : 451.377585193
+	6 : 0.00406239826674
+
+see - correct sense: 1 - predicted sense: 3
+False
+	1 : 2775336876.78
+	3 : 9.94154408755e+15
+	2 : 5.35061503471e+12
+	5 : 6.31784178443e-05
+	4 : 32.9129489203
+	6 : 0.000877478025615
+
+development - correct sense: 3 - predicted sense: 1
+False
+	1 : 5.24698563798e+20
+	3 : 54086946059.1
+	2 : 0.846332972237
+
+development - correct sense: 3 - predicted sense: 1
+False
+	1 : 1.51910546489e+19
+	3 : 717790024.628
+	2 : 2.82110990746
+
+development - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.73236035689e+21
+	3 : 161173375.77
+	2 : 0.60935974001
+
+development - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.55305302127e+22
+	3 : 196951086.339
+	2 : 1.41055495373
+
+development - correct sense: 3 - predicted sense: 1
+False
+	1 : 4.204409178e+16
+	3 : 4.20935284224e+11
+	2 : 0.0902755170386
+
+report - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.71682600895e+20
+	3 : 0.0121871948002
+	2 : 0.361102068154
+
+report - correct sense: 3 - predicted sense: 1
+False
+	1 : 4.68774222323e+13
+	3 : 0.00263243407685
+	2 : 0.173328992714
+
+report - correct sense: 1 - predicted sense: 1
+True
+	1 : 9.6441407731e+19
+	3 : 0.00197432555763
+	2 : 0.00421189452295
+
+report - correct sense: 1 - predicted sense: 1
+True
+	1 : 2.03067028118e+16
+	3 : 0.0109684753202
+	2 : 0.144440827262
+
+report - correct sense: 1 - predicted sense: 1
+True
+	1 : 19947266248959944294400000
+	3 : 0.00658108519211
+	2 : 0.0935976560656
+
+report - correct sense: 1 - predicted sense: 1
+True
+	1 : 4.52699063137e+22
+	3 : 0.00109684753202
+	2 : 0.000421189452295
+
+report - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.5346458992e+18
+	3 : 0.00109684753202
+	2 : 0.000974975584017
+
+plant - correct sense: 1 - predicted sense: 1
+True
+	1 : 5.42059997394e+29
+	2 : 49804779.8477
+
+plant - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.4187136999e+28
+	2 : 22814.428666
+
+plant - correct sense: 1 - predicted sense: 1
+True
+	1 : 4.37311151722e+16
+	2 : 3229696.89757
+
+plant - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.09852988106e+27
+	2 : 99986874187.6
+
+plant - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.93812619948e+32
+	2 : 1.04472277045e+13
+
+plant - correct sense: 1 - predicted sense: 1
+True
+	1 : 97041719262991659623010238464000
+	2 : 3199870033.92
+
+plant - correct sense: 1 - predicted sense: 1
+True
+	1 : 5.28645962632e+31
+	2 : 888294.161
+
+plant - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.56846676877e+33
+	2 : 2.02216955949e+11
+
+plant - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.98968539147e+36
+	2 : 930966.26946
+
+plant - correct sense: 1 - predicted sense: 1
+True
+	1 : 2911915848727250061760553156739072000
+	2 : 1.44816975249e+11
+
+plant - correct sense: 1 - predicted sense: 1
+True
+	1 : 3.47269455025e+38
+	2 : 9796747255.97
+
+plant - correct sense: 1 - predicted sense: 1
+True
+	1 : 5.51270217813e+25
+	2 : 3202209.80814
+
+keep - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.93711398951e+12
+	3 : 0.530698709892
+	2 : 0.329054259606
+	5 : 0.155708475645
+	4 : 171.382426878
+	6 : 1.7058172818e-06
+	8 : 37536.5599846
+
+keep - correct sense: 1 - predicted sense: 1
+True
+	1 : 2.20736165236e+17
+	3 : 37027.0675354
+	2 : 1175.46246144
+	5 : 441.451457741
+	4 : 4897760.256
+	6 : 0.000101559956668
+	8 : 67236452794.4
+
+keep - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.4407285297e+15
+	3 : 197398.702445
+	2 : 31596.4309635
+	5 : 51.4908980309
+	4 : 6734420.352
+	6 : 3.65615844006e-05
+	8 : 12080149352.1
+
+keep - correct sense: 8 - predicted sense: 1
+False
+	1 : 9.6928997511e+18
+	3 : 11369138.2305
+	2 : 4570198.05008
+	5 : 167822.186175
+	4 : 6110862912.0
+	6 : 6.0935974001e-05
+	8 : 2.64870874644e+12
+
+keep - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.63978706037e+14
+	3 : 335.712078987
+	2 : 10.1559956668
+	5 : 17.1147334386
+	4 : 761.8738176
+	6 : 2.19369506404e-05
+	8 : 157689595.272
+
+keep - correct sense: 1 - predicted sense: 1
+True
+	1 : 4.17297698588e+21
+	3 : 357640.002076
+	2 : 465483.13473
+	5 : 308.945388185
+	4 : 142230957.834
+	6 : 1.31621703842e-05
+	8 : 8.4257149236e+11
+
+keep - correct sense: 1 - predicted sense: 1
+True
+	1 : 6.11801692746e+16
+	3 : 33449.3080879
+	2 : 64.6504353792
+	5 : 8.80186291126
+	4 : 3687469.27718
+	6 : 2.19369506404e-05
+	8 : 4313966040.88
+
+keep - correct sense: 3 - predicted sense: 1
+False
+	1 : 4435738205.18
+	3 : 19.1355885023
+	2 : 4.57019805008
+	5 : 19.3640984048
+	4 : 1629.19097156
+	6 : 1.31621703842e-05
+	8 : 9873.8846761
+
+keep - correct sense: 1 - predicted sense: 1
+True
+	1 : 3.6002787309e+16
+	3 : 12381.8513838
+	2 : 133.297443127
+	5 : 125.866639631
+	4 : 210113.914982
+	6 : 7.89730223054e-06
+	8 : 6796743371.71
+
+keep - correct sense: 1 - predicted sense: 1
+True
+	1 : 7.49766887904e+11
+	3 : 402.854494785
+	2 : 16.4527129803
+	5 : 2.05963592124
+	4 : 317.374864589
+	6 : 2.19369506404e-05
+	8 : 3343537.6681
+
+keep - correct sense: 5 - predicted sense: 1
+False
+	1 : 1.81999781154e+20
+	3 : 34466.4401094
+	2 : 1269.49945836
+	5 : 991.676554669
+	4 : 17006112.0
+	6 : 2.19369506404e-05
+	8 : 1023958410.85
+
+keep - correct sense: 1 - predicted sense: 1
+True
+	1 : 7.92520752045e+14
+	3 : 1342.84831595
+	2 : 2665.94886255
+	5 : 22.9554758025
+	4 : 3003959.62368
+	6 : 2.19369506404e-05
+	8 : 108523208.216
+
+keep - correct sense: 1 - predicted sense: 1
+True
+	1 : 9.5240234829e+16
+	3 : 14192.0635744
+	2 : 1861.93253892
+	5 : 381.414059488
+	4 : 2443.78645733
+	6 : 1.31621703842e-05
+	8 : 234716344.3
+
+keep - correct sense: 1 - predicted sense: 1
+True
+	1 : 1.29637421417e+25
+	3 : 2824608238.53
+	2 : 754255079.424
+	5 : 1438113.0181
+	4 : 3.70210209178e+11
+	6 : 0.000101559956668
+	8 : 1.15937837349e+18
+
+keep - correct sense: 4 - predicted sense: 1
+False
+	1 : 41189559091.2
+	3 : 0.0255931090804
+	2 : 0.00822635649014
+	5 : 0.0343272653539
+	4 : 2.82110990746
+	6 : 7.89730223054e-06
+	8 : 81.2479653347
+
+keep - correct sense: 1 - predicted sense: 1
+True
+	1 : 2.53004813107e+11
+	3 : 0.329129489203
+	2 : 0.176319369216
+	5 : 0.190707029744
+	4 : 0.58773123072
+	6 : 6.0935974001e-05
+	8 : 19349.17632
+
+maintain - correct sense: 1 - predicted sense: 1
+True
+	1 : 39711974.2565
+	2 : 25.9993489071
+
+maintain - correct sense: 1 - predicted sense: 1
+True
+	1 : 812818186.536
+	2 : 338.533188895
+

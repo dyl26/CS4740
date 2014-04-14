@@ -1,0 +1,18 @@
+INSTUPproject2.supervisedSenses
+/Users/Elle/Documents/Cornell Classes/8-Spring 2014/CS 4740/CS4740Projects/NLP2/project2/supervisedSenses.py
+INFOS:&&3|1|2|0&&2|3|2|0&&2|4|2|0&&2|5|2|0&&2|6|2|0&&2|7|2|0&&2|8|2|0&&3|9|2|0&&3|10|2|0&&3|11|2|0&&2|12|2|0&&2|13|2|0&&2|14|2|0&&3|15|2|0
+extension_2_random=12
+project2.supervisedSenses=2
+extension_2_window=8
+new_sense_prob_map=11
+second_highest=10
+highest=9
+window_size=1
+extension_2_target=13
+get_second_highest=7
+get_senses=6
+get_most_frequent_target=4
+predict_sense_ids_with_data=3
+senses=15
+output_to_file=14
+predict_sense_ids=5

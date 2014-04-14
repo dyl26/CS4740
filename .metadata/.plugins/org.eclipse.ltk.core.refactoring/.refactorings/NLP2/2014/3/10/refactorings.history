@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;NLP2/project2/__init__.py&apos; to &apos;supervised.py&apos;" description="Rename resource &apos;__init__.py&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="project2/__init__.py" name="supervised.py" stamp="1394315856649" updateReferences="true"/>
+</session>
